@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataDiet Daily</title>
+    <!-- TailwindCSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                    colors: {
+                        bg: {
+                            DEFAULT: '#0A0A0A',
+                            surface: '#121212',
+                            card: '#1C1C1C'
+                        },
+                        tag: {
+                            ai: '#3B82F6',
+                            tech: '#A855F7',
+                            crypto: '#22C55E',
+                            space: '#EAB308',
+                        }
+                    },
+                }
+            }
+        }
+    </script>
+    <!-- Inter Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <!-- Matter.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+    <!-- Tally Embed Script -->
+    <script async src="https://tally.so/widgets/embed.js"></script>
+
+
+    <style>
+        body {
+            background-color: #0A0A0A;
+            color: #EDEDED;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            background-size: 40px 40px;
+            background-image: linear-gradient(to right, #ffffff08 1px, transparent 1px), linear-gradient(to bottom, #ffffff08 1px, transparent 1px);
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0A0A0A;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #333;
+            border-radius: 3px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+
+        .physics-element {
+            transform-origin: center center;
+        }
+
+        .drag-overlay {
+            display: none;
+            position: absolute;
+            inset: 0;
+            z-index: 50;
+            background: rgba(0, 0, 0, 0);
+        }
+
+        body.chaos-active {
+            overflow: hidden !important;
+        }
+
+        body.chaos-active #right-panel {
+            overflow: visible !important;
+        }
+
+        body.chaos-active .drag-overlay {
+            display: block;
+        }
+
+        @keyframes pulse-red {
+            0% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4);
+            }
+
+            70% {
+                box-shadow: 0 0 0 10px rgba(239, 68, 68, 0);
+            }
+
+            100% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+            }
+        }
+
+        .animate-pulse-red {
+            animation: pulse-red 2s infinite;
+        }
+
+        .tag-pill:hover {
+            text-decoration: underline;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+
+<body class="h-screen w-full overflow-hidden">
+
+    <!-- Language Selector -->
+    <div class="fixed top-6 right-6 z-50 flex flex-col gap-2 items-end physics-element" data-body-type="rectangle">
+        <div class="bg-neutral-900 border border-neutral-800 rounded-lg p-1 flex shadow-xl">
+            <button id="btn-en" onclick="setLanguage('en')"
+                class="px-3 py-1 text-xs font-bold bg-neutral-800 text-white rounded shadow-sm transition-colors">EN</button>
+            <button id="btn-tr" onclick="setLanguage('tr')"
+                class="px-3 py-1 text-xs font-bold text-neutral-500 hover:text-neutral-300 transition-colors">TR</button>
+        </div>
+    </div>
+
+    <div id="canvas-container" class="absolute inset-0 pointer-events-none z-0"></div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 h-full w-full relative z-10">
+
+        <!-- LEFT PANEL -->
+        <div id="left-panel" class="h-full flex flex-col justify-center items-center p-8 md:p-12 relative">
+
+            <div class="flex flex-col items-center mb-12 physics-element cursor-pointer" data-body-type="rectangle"
+                onclick="toggleChaos()">
+                <div class="relative w-32 h-32 rounded-full border-4 border-neutral-800 shadow-2xl overflow-hidden group hover:border-neutral-600 transition-colors mb-6 physics-element"
+                    data-body-type="circle">
+                    <!-- NEW LOGO -->
+                    <img src="newlogo.jpeg" alt="MindFeed Logo" class="w-full h-full object-cover">
+                    <div
+                        class="absolute inset-0 bg-black/50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                        <span id="t-gravity"
+                            class="text-xs font-bold uppercase tracking-widest text-white">GRAVITY?</span>
+                    </div>
+                </div>
+                <h2 class="text-3xl font-black text-white tracking-tighter">DataDiet Daily</h2>
+                <div id="t-subtitle" class="text-xs font-bold text-neutral-500 uppercase tracking-[0.3em] mt-1">AI
+                    Newsletter</div>
+            </div>
+
+            <div class="text-center mb-10">
+                <h1 id="t-hero-title"
+                    class="text-4xl md:text-6xl font-black leading-none tracking-tight text-white mb-4 physics-element"
+                    data-body-type="rectangle">
+                    CONSUME SMARTER <br> NOT MORE.
+                </h1>
+                <p id="t-hero-sub" class="text-neutral-400 font-medium tracking-wide physics-element"
+                    data-body-type="rectangle">
+                    Cut through the noise.
+                </p>
+            </div>
+
+            <div class="w-full max-w-sm physics-element relative mb-8" data-body-type="rectangle">
+                <div class="drag-overlay"></div>
+                <div class="rounded-xl p-1">
+                    <iframe
+                        data-tally-src="https://tally.so/embed/2EXBZb?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+                        loading="lazy" width="100%" height="240" frameborder="0" marginheight="0" marginwidth="0"
+                        title="MindFeed Daily Form" style="background: transparent;">
+                    </iframe>
+                </div>
+            </div>
+
+            <button id="t-dont-touch" onclick="toggleChaos()"
+                class="physics-element bg-neutral-900 border border-red-900/30 text-red-600 hover:bg-red-600 hover:text-white px-5 py-2 rounded-lg font-bold uppercase tracking-widest text-[10px] transition-all duration-300 animate-pulse-red"
+                data-body-type="rectangle">
+                ⚠️ Don't Touch
+            </button>
+        </div>
+
+        <!-- RIGHT PANEL -->
+        <div id="right-panel"
+            class="h-full bg-neutral-950/50 border-l border-neutral-900 overflow-y-auto p-6 md:p-8 space-y-6">
+
+            <div id="t-feed-title"
+                class="text-xs font-bold text-neutral-500 uppercase tracking-widest mb-6 sticky top-0 bg-neutral-950/90 py-2 backdrop-blur z-20">
+                Today's Curated Feed
+            </div>
+
+            <!-- Dynamic News Container -->
+            <div id="news-container" class="space-y-6"></div>
+
+            <div id="t-footer" class="text-center pt-8 pb-4 text-xs text-neutral-600 physics-element"
+                data-body-type="rectangle">
+                Subscribe to read full stories. <br>
+                DataDiet Daily © 2025
+            </div>
+        </div>
+    </div>
+
+    <!-- DYNAMIC LOGIC -->
+    <script>
+        const translations = {
+            en: {
+                "t-subtitle": "Tech Nutrition",
+                "t-hero-title": "CONSUME SMARTER <br> NOT MORE.",
+                "t-hero-sub": "Cut through the noise.",
+                "t-dont-touch": "⚠️ Don't Touch",
+                "t-feed-title": "Today's Menu",
+                "t-gravity": "GRAVITY?",
+                "t-footer": "Subscribe for full portions. <br> DataDiet Daily © 2025",
+            },
+            tr: {
+                "t-subtitle": "Teknoloji Besini",
+                "t-hero-title": "DAHA FAZLA DEĞİL <br> DAHA AKILLI TÜKET.",
+                "t-hero-sub": "Gürültüden sıyrıl.",
+                "t-dont-touch": "⚠️ Sakın Dokunma",
+                "t-feed-title": "Günün Menüsü",
+                "t-gravity": "YERÇEKİMİ?",
+                "t-footer": "Tam porsiyon için abone olun. <br> DataDiet Daily © 2025",
+            }
+        };
+
+        let newsData = [];
+        let currentLang = 'en';
+
+        async function fetchNews() {
+            try {
+                const response = await fetch('news.json');
+                if (!response.ok) throw new Error('Network response was not ok');
+                newsData = await response.json();
+                renderNews(currentLang);
+            } catch (error) {
+                console.error('Error loading news:', error);
+                document.getElementById('news-container').innerHTML = '<div class="text-red-500 p-4">Error loading news. Make sure you are running a local server.</div>';
+            }
+        }
+
+        function renderNews(lang) {
+            const container = document.getElementById('news-container');
+            if (!container) return;
+
+            container.innerHTML = ''; // Clear existing content
+
+            if (newsData.length === 0) {
+                container.innerHTML = '<div class="text-neutral-600 p-4">Loading news...</div>';
+                return;
+            }
+
+            newsData.forEach(item => {
+                const content = item.content[lang];
+
+                // Create hashtags HTML
+                const hashtagsHtml = content.hashtags.map(tag =>
+                    `<span class="hover:text-white cursor-pointer transition-colors">${tag}</span>`
+                ).join(' ');
+
+                // Create tags HTML
+                const tagsHtml = item.tags.map(tag =>
+                    `<span class="tag-pill text-[10px] font-bold ${tag.colorClass} px-2 py-[2px] rounded-full uppercase tracking-wider">#${tag.text}</span>`
+                ).join('');
+
+                const articleHtml = `
+                <article class="physics-element bg-neutral-900 border border-neutral-800 p-5 rounded-xl hover:border-neutral-600 transition-all select-none group" data-body-type="rectangle">
+                    <div class="flex items-center gap-3 mb-3">
+                        ${tagsHtml}
+                        <span class="text-[10px] text-neutral-600">${item.time}</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-white mb-2 leading-tight group-hover:text-blue-400 transition-colors">
+                        ${content.title}
+                    </h3>
+                    <p class="text-sm text-neutral-400 leading-relaxed mb-4">
+                        ${content.description}
+                    </p>
+                    <div class="flex flex-wrap gap-2 text-[10px] font-mono text-neutral-500">
+                        ${hashtagsHtml}
+                    </div>
+                </article>
+                `;
+
+                container.insertAdjacentHTML('beforeend', articleHtml);
+            });
+
+            // Re-initialize physics elements if chaos mode is active? 
+            // For now, if chaos mode is OFF, we are good. 
+            // If chaos mode is ON, new elements won't have physics bodies immediately unless we handle it.
+            // But usually chaos mode is a one-way trip until reload.
+        }
+
+        function setLanguage(lang) {
+            currentLang = lang;
+            const t = translations[lang];
+            if (!t) return;
+
+            // Update static text content
+            for (const [id, text] of Object.entries(t)) {
+                const el = document.getElementById(id);
+                if (el) el.innerHTML = text;
+            }
+
+            // Render Dynamic News
+            renderNews(lang);
+
+            // Update Buttons State
+            const btnEn = document.getElementById('btn-en');
+            const btnTr = document.getElementById('btn-tr');
+
+            if (lang === 'en') {
+                btnEn.className = "px-3 py-1 text-xs font-bold bg-neutral-800 text-white rounded shadow-sm transition-colors";
+                btnTr.className = "px-3 py-1 text-xs font-bold text-neutral-500 hover:text-neutral-300 transition-colors";
+            } else {
+                btnTr.className = "px-3 py-1 text-xs font-bold bg-neutral-800 text-white rounded shadow-sm transition-colors";
+                btnEn.className = "px-3 py-1 text-xs font-bold text-neutral-500 hover:text-neutral-300 transition-colors";
+            }
+        }
+
+        // Initial Render
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchNews();
+        });
+    </script>
+
+    <!-- PHYSICS ENGINE -->
+    <script>
+        const Engine = Matter.Engine,
+            Runner = Matter.Runner,
+            Bodies = Matter.Bodies,
+            Composite = Matter.Composite,
+            Mouse = Matter.Mouse,
+            MouseConstraint = Matter.MouseConstraint,
+            Events = Matter.Events;
+
+        let engine;
+        let runner;
+        let isChaosEnabled = false;
+
+        function toggleChaos() {
+            if (isChaosEnabled) {
+                window.location.reload();
+                return;
+            }
+            isChaosEnabled = true;
+            document.body.classList.add('chaos-active');
+
+            // Just for fun, if Turkish, change button text differently
+            // But we already handle translations via ID, so let's skip dynamic button text change 
+            // after chaos starts to avoid complicating the translation state.
+
+            engine = Engine.create();
+            const world = engine.world;
+
+            const elements = document.querySelectorAll('.physics-element');
+            const bodies = [];
+
+            elements.forEach(el => {
+                const rect = el.getBoundingClientRect();
+                const x = rect.left + rect.width / 2;
+                const y = rect.top + rect.height / 2;
+
+                const type = el.dataset.bodyType || 'rectangle';
+                let body;
+                if (type === 'circle') {
+                    body = Bodies.circle(x, y, rect.width / 2, { restitution: 0.9, friction: 0.05, density: 0.005 });
+                } else {
+                    body = Bodies.rectangle(x, y, rect.width, rect.height, { restitution: 0.6, friction: 0.1, density: 0.001 });
+                }
+                body.domElement = el;
+                body.domWidth = rect.width;
+                body.domHeight = rect.height;
+                bodies.push(body);
+
+                el.style.position = 'absolute';
+                el.style.left = '0';
+                el.style.top = '0';
+                el.style.width = rect.width + 'px';
+                el.style.height = rect.height + 'px';
+                el.style.margin = '0';
+                el.style.zIndex = '100';
+                el.style.transform = `translate(${x - rect.width / 2}px, ${y - rect.height / 2}px)`;
+            });
+
+            const thickness = 100;
+            const w = window.innerWidth;
+            const h = window.innerHeight;
+
+            const floor = Bodies.rectangle(w / 2, h + thickness / 2, w, thickness, { isStatic: true });
+            const leftWall = Bodies.rectangle(0 - thickness / 2, h / 2, thickness, h * 5, { isStatic: true });
+            const rightWall = Bodies.rectangle(w + thickness / 2, h / 2, thickness, h * 5, { isStatic: true });
+
+            Composite.add(world, [...bodies, floor, leftWall, rightWall]);
+
+            const mouse = Mouse.create(document.body);
+            const mouseConstraint = MouseConstraint.create(engine, {
+                mouse: mouse,
+                constraint: { stiffness: 0.2, render: { visible: false } }
+            });
+            mouseConstraint.mouse.element.removeEventListener("mousewheel", mouseConstraint.mouse.mousewheel);
+            mouseConstraint.mouse.element.removeEventListener("DOMMouseScroll", mouseConstraint.mouse.mousewheel);
+            Composite.add(world, mouseConstraint);
+
+            runner = Runner.create();
+            Runner.run(runner, engine);
+
+            Events.on(engine, 'afterUpdate', () => {
+                bodies.forEach(body => {
+                    if (body.domElement) {
+                        const { x, y } = body.position;
+                        const angle = body.angle;
+                        const tx = x - body.domWidth / 2;
+                        const ty = y - body.domHeight / 2;
+                        body.domElement.style.transform = `translate(${tx}px, ${ty}px) rotate(${angle}rad)`;
+                    }
+                });
+            });
+        }
+    </script>
+</body>
+
+</html>

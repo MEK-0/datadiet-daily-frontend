@@ -1,0 +1,157 @@
+[
+    {
+        "id": "news-1",
+        "time": "08:15 AM",
+        "tags": [
+            {
+                "text": "AI-MODEL",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "OpenAI Announces 'o1' Model",
+                "description": "New reasoning-capable model outperforms predecessors in math and coding by 40%. API access rolling out today.",
+                "hashtags": [
+                    "#machinelearning",
+                    "#openai",
+                    "#dev"
+                ]
+            },
+            "tr": {
+                "title": "OpenAI 'o1' Modelini Duyurdu",
+                "description": "Yeni mantık yürütebilen model, matematik ve kodlamada öncekilerden %40 daha iyi. API erişimi bugün açılıyor.",
+                "hashtags": [
+                    "#yapayzeka",
+                    "#openai",
+                    "#yazılım"
+                ]
+            }
+        }
+    },
+    {
+        "id": "news-2",
+        "time": "08:12 AM",
+        "tags": [
+            {
+                "text": "APPLE",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "tech"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Vision Pro 2 Price Cut",
+                "description": "Supply chain reports indicate reduced screen costs for the 2025 model. Target price set at $1,500.",
+                "hashtags": [
+                    "#vr",
+                    "#hardware",
+                    "#apple"
+                ]
+            },
+            "tr": {
+                "title": "Vision Pro 2 Ucuzluyor",
+                "description": "Tedarik zinciri raporlarına göre 2025 modeli için ekran maliyetleri düştü. Hedef fiyat 1.500$.",
+                "hashtags": [
+                    "#sanalgerçeklik",
+                    "#donanım",
+                    "#apple"
+                ]
+            }
+        }
+    },
+    {
+        "id": "news-3",
+        "time": "08:05 AM",
+        "tags": [
+            {
+                "text": "CRYPTO",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "crypto"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Bitcoin ETF Breaks Record",
+                "description": "BlackRock's IBIT fund hits highest daily inflow since launch. Institutional interest surging significantly.",
+                "hashtags": [
+                    "#finance",
+                    "#btc",
+                    "#markets"
+                ]
+            },
+            "tr": {
+                "title": "Bitcoin ETF Rekor Kırdı",
+                "description": "BlackRock'ın IBIT fonu, çıkışından bu yana en yüksek günlük para girişini gördü. Kurumsal ilgi büyük.",
+                "hashtags": [
+                    "#finans",
+                    "#btc",
+                    "#piyasalar"
+                ]
+            }
+        }
+    },
+    {
+        "id": "news-4",
+        "time": "07:55 AM",
+        "tags": [
+            {
+                "text": "SPACE",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Starship Flight 4 Success",
+                "description": "SpaceX successfully soft-lands the booster in the ocean. A critical step towards Mars colonization.",
+                "hashtags": [
+                    "#spacex",
+                    "#mars",
+                    "#rockets"
+                ]
+            },
+            "tr": {
+                "title": "Starship 4. Uçuş Başarılı",
+                "description": "SpaceX, güçlendiriciyi okyanusa yumuşak indirmeyi başardı. Mars kolonizasyonu için kritik bir adım.",
+                "hashtags": [
+                    "#spacex",
+                    "#mars",
+                    "#roketler"
+                ]
+            }
+        }
+    },
+    {
+        "id": "news-5",
+        "time": "09:55 AM",
+        "tags": [
+            {
+                "text": "SPACE",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Fergani Space",
+                "description": "Fergani Space successfully soft-lands the booster in the ocean. A critical step towards Mars colonization.",
+                "hashtags": [
+                    "#spacex",
+                    "#mars",
+                    "#rockets"
+                ]
+            },
+            "tr": {
+                "title": "Fergani Space",
+                "description": "Fergani Space, güçlendiriciyi okyanusa yumuşak indirmeyi başardı. Mars kolonizasyonu için kritik bir adım.",
+                "hashtags": [
+                    "#spacex",
+                    "#mars",
+                    "#roketler"
+                ]
+            }
+        }
+    }
+]
