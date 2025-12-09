@@ -189,9 +189,32 @@
         <div id="right-panel"
             class="h-full bg-neutral-950/50 border-l border-neutral-900 overflow-y-auto p-6 md:p-8 space-y-6">
 
-            <div id="t-feed-title"
-                class="text-xs font-bold text-neutral-500 uppercase tracking-widest mb-6 sticky top-0 bg-neutral-950/90 py-2 backdrop-blur z-20">
-                Today's Curated Feed
+            <div id="filter-container"
+                class="flex gap-2 mb-6 sticky top-0 bg-neutral-950/90 py-2 backdrop-blur z-20 overflow-x-auto no-scrollbar">
+                <button onclick="filterNews('all')"
+                    class="filter-btn active px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white text-black transition-all">
+                    All
+                </button>
+                <button onclick="filterNews('ai')"
+                    class="filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 hover:text-blue-400 border border-neutral-800 hover:border-blue-400/50 transition-all">
+                    AI
+                </button>
+                <button onclick="filterNews('gaming')"
+                    class="filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 hover:text-purple-400 border border-neutral-800 hover:border-purple-400/50 transition-all">
+                    Gaming
+                </button>
+                <button onclick="filterNews('mobile')"
+                    class="filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 hover:text-green-400 border border-neutral-800 hover:border-green-400/50 transition-all">
+                    Mobile
+                </button>
+                <button onclick="filterNews('space')"
+                    class="filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 hover:text-yellow-400 border border-neutral-800 hover:border-yellow-400/50 transition-all">
+                    Space
+                </button>
+                <button onclick="filterNews('gear')"
+                    class="filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 hover:text-red-400 border border-neutral-800 hover:border-red-400/50 transition-all">
+                    Gear
+                </button>
             </div>
 
             <!-- Dynamic News Container -->
@@ -230,20 +253,47 @@
 
         let newsData = [];
         let currentLang = 'en';
+        let currentFilter = 'all';
 
         async function fetchNews() {
             try {
                 const response = await fetch('news.json');
                 if (!response.ok) throw new Error('Network response was not ok');
                 newsData = await response.json();
-                renderNews(currentLang);
+                renderNews(currentLang, currentFilter);
             } catch (error) {
                 console.error('Error loading news:', error);
                 document.getElementById('news-container').innerHTML = '<div class="text-red-500 p-4">Error loading news. Make sure you are running a local server.</div>';
             }
         }
 
-        function renderNews(lang) {
+        function filterNews(type) {
+            currentFilter = type;
+            renderNews(currentLang, currentFilter);
+
+            // Update active state of buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                const btnText = btn.innerText.toLowerCase();
+                if (btnText === type) {
+                    btn.className = "filter-btn active px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white text-black transition-all";
+                } else {
+                    // Reset to default style based on type (simplified for now to generic default, or we can restore specific colors if needed)
+                    // For simplicity, let's use a generic inactive style but we might lose the specific hover colors if we hardcode.
+                    // Let's try to preserve the color hints in a smarter way or just use a generic inactive class.
+
+                    let hoverColorClass = "hover:text-white hover:border-white/50";
+                    if (btn.innerText === "AI") hoverColorClass = "hover:text-blue-400 hover:border-blue-400/50";
+                    if (btn.innerText === "Gaming") hoverColorClass = "hover:text-purple-400 hover:border-purple-400/50";
+                    if (btn.innerText === "Mobile") hoverColorClass = "hover:text-green-400 hover:border-green-400/50";
+                    if (btn.innerText === "Space") hoverColorClass = "hover:text-yellow-400 hover:border-yellow-400/50";
+                    if (btn.innerText === "Gear") hoverColorClass = "hover:text-red-400 hover:border-red-400/50";
+
+                    btn.className = `filter-btn px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-neutral-900 text-neutral-500 border border-neutral-800 transition-all ${hoverColorClass}`;
+                }
+            });
+        }
+
+        function renderNews(lang, filter = 'all') {
             const container = document.getElementById('news-container');
             if (!container) return;
 
@@ -254,7 +304,11 @@
                 return;
             }
 
-            newsData.forEach(item => {
+            const filteredData = filter === 'all'
+                ? newsData
+                : newsData.filter(item => item.tags.some(t => t.type === filter));
+
+            filteredData.forEach(item => {
                 const content = item.content[lang];
 
                 // Create hashtags HTML
@@ -271,7 +325,7 @@
                 <article class="physics-element bg-neutral-900 border border-neutral-800 p-5 rounded-xl hover:border-neutral-600 transition-all select-none group" data-body-type="rectangle">
                     <div class="flex items-center gap-3 mb-3">
                         ${tagsHtml}
-                        <span class="text-[10px] text-neutral-600">${item.time}</span>
+                        <span class="text-[10px] text-neutral-600">${item.time || 'Today'}</span>
                     </div>
                     <h3 class="text-lg font-bold text-white mb-2 leading-tight group-hover:text-blue-400 transition-colors">
                         ${content.title}
@@ -306,7 +360,8 @@
             }
 
             // Render Dynamic News
-            renderNews(lang);
+            // Render Dynamic News
+            renderNews(lang, currentFilter);
 
             // Update Buttons State
             const btnEn = document.getElementById('btn-en');

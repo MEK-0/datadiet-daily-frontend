@@ -1,6 +1,187 @@
 [
     {
-        "id": "news-excel-1",
+        "id": "news-gear-1472",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The 11 best gifts under $25 for 2025",
+                "description": "Keep things simple, and affordable, with these unique gift ideas.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "The 11 best gifts under $25 for 2025",
+                "description": "Keep things simple, and affordable, with these unique gift ideas.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/computing/accessories/the-11-best-gifts-under-25-for-2025-140042203.html"
+    },
+    {
+        "id": "news-mobile-718",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The best wireless chargers for 2025",
+                "description": "Here's what to look for when buying a wireless phone charger, as well a list of the best wireless chargers you can buy right now.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "The best wireless chargers for 2025",
+                "description": "Here's what to look for when buying a wireless phone charger, as well a list of the best wireless chargers you can buy right now.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/computing/accessories/best-wireless-charger-140036359.html"
+    },
+    {
+        "id": "news-gaming-401",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The AI boom could soon send GPU prices soaring, so now's a good time to buy one",
+                "description": "With the AI boom poised to make all consumer electronics more expensive, there might be a small window of opportunity to buy a GPU at a reasonable price.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "The AI boom could soon send GPU prices soaring, so now's a good time to buy one",
+                "description": "With the AI boom poised to make all consumer electronics more expensive, there might be a small window of opportunity to buy a GPU at a reasonable price.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/pc/the-ai-boom-could-soon-send-gpu-prices-soaring-so-nows-a-good-time-to-buy-one-153000063.html"
+    },
+    {
+        "id": "news-gaming-401",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Katsuhiro Harada is leaving Bandai Namco after 30 years",
+                "description": "Harada announced the news both with a farewell note shared on X and, in possibly the coolest exit ever, with an hour-long DJ mix.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Katsuhiro Harada is leaving Bandai Namco after 30 years",
+                "description": "Harada announced the news both with a farewell note shared on X and, in possibly the coolest exit ever, with an hour-long DJ mix.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html"
+    },
+    {
+        "id": "news-space-1114",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Blue Origin scrubs New Glenn's second flight due to bad weather",
+                "description": "The rocket, carrying the twin satellites for NASA's Escapade mission, will have to launch another day.",
+                "hashtags": [
+                    "#news",
+                    "#space"
+                ]
+            },
+            "tr": {
+                "title": "Blue Origin scrubs New Glenn's second flight due to bad weather",
+                "description": "The rocket, carrying the twin satellites for NASA's Escapade mission, will have to launch another day.",
+                "hashtags": [
+                    "#haber",
+                    "#space"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/science/space/blue-origin-scrubs-new-glenns-second-flight-due-to-bad-weather-214349212.html"
+    },
+    {
+        "id": "news-mobile-718",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Samsung fully unveils its Galaxy Z TriFold phone, and it'll be available in Korea in a few days",
+                "description": "The Galaxy Z TriFold will be available in Korea later this month, but no price has been revealed yet.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "Samsung fully unveils its Galaxy Z TriFold phone, and it'll be available in Korea in a few days",
+                "description": "The Galaxy Z TriFold will be available in Korea later this month, but no price has been revealed yet.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/samsung-fully-unveils-its-galaxy-z-trifold-phone-and-itll-be-available-in-korea-in-a-few-days-010000499.html"
+    },
+    {
+        "id": "news-ai-0",
+        "time": "Today",
         "tags": [
             {
                 "text": "AI",
@@ -13,21 +194,24 @@
                 "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
                 "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
                 "hashtags": [
-                    "#news"
+                    "#news",
+                    "#ai"
                 ]
             },
             "tr": {
                 "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
                 "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
                 "hashtags": [
-                    "#haber"
+                    "#haber",
+                    "#ai"
                 ]
             }
         },
         "url": "https://www.engadget.com/ai/amazon-is-rolling-out-new-shopping-features-for-alexa-because-of-course-it-is-150000355.html"
     },
     {
-        "id": "news-excel-2",
+        "id": "news-ai-0",
+        "time": "Today",
         "tags": [
             {
                 "text": "AI",
@@ -40,21 +224,144 @@
                 "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
                 "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
                 "hashtags": [
-                    "#news"
+                    "#news",
+                    "#ai"
                 ]
             },
             "tr": {
                 "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
                 "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
                 "hashtags": [
-                    "#haber"
+                    "#haber",
+                    "#ai"
                 ]
             }
         },
         "url": "https://www.engadget.com/big-tech/texas-authorities-have-made-multiple-arrests-in-an-nvidia-gpu-smuggling-operation-144749526.html"
     },
     {
-        "id": "news-excel-3",
+        "id": "news-gear-1472",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Our favorite Anker MagSafe power bank is 34 percent off right now",
+                "description": "Pick up Anker's MagGo 10,000mAh Power Bank for just $60.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "Our favorite Anker MagSafe power bank is 34 percent off right now",
+                "description": "Pick up Anker's MagGo 10,000mAh Power Bank for just $60.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/deals/our-favorite-anker-magsafe-power-bank-is-34-percent-off-right-now-151039224.html"
+    },
+    {
+        "id": "news-gaming-401",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Skyrim arrives on the Switch 2",
+                "description": "The digital-only port costs $60 if you don't own it for the original Switch.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Skyrim arrives on the Switch 2",
+                "description": "The digital-only port costs $60 if you don't own it for the original Switch.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/nintendo/skyrim-arrives-on-the-switch-2-175200223.html"
+    },
+    {
+        "id": "news-gear-1472",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Pebble is making a weird little smart ring for recording thoughts",
+                "description": "Pebble just announced the Index 01, a smart ring for recording thoughts. It's basically a ring with a microphone.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "Pebble is making a weird little smart ring for recording thoughts",
+                "description": "Pebble just announced the Index 01, a smart ring for recording thoughts. It's basically a ring with a microphone.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/wearables/pebble-is-making-a-weird-little-smart-ring-for-recording-thoughts-161723645.html"
+    },
+    {
+        "id": "news-gaming-401",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Microsoft Flight Sim 2024 now has a Stranger Things expansion",
+                "description": "Microsoft Flight Simulator 2024 just introduced an expansion inspired by the Netflix show Stranger Things. It lets people fly over Hawkins and complete missions.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Microsoft Flight Sim 2024 now has a Stranger Things expansion",
+                "description": "Microsoft Flight Simulator 2024 just introduced an expansion inspired by the Netflix show Stranger Things. It lets people fly over Hawkins and complete missions.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/microsoft-flight-sim-2024-now-has-a-stranger-things-expansion-173944325.html"
+    },
+    {
+        "id": "news-ai-0",
+        "time": "Today",
         "tags": [
             {
                 "text": "AI",
@@ -67,21 +374,84 @@
                 "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
                 "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
                 "hashtags": [
-                    "#news"
+                    "#news",
+                    "#ai"
                 ]
             },
             "tr": {
                 "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
                 "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
                 "hashtags": [
-                    "#haber"
+                    "#haber",
+                    "#ai"
                 ]
             }
         },
         "url": "https://www.engadget.com/entertainment/streaming/an-ai-copycat-of-king-gizzard--the-lizard-wizard-went-unnoticed-on-spotify-for-weeks-220018144.html"
     },
     {
-        "id": "news-excel-4",
+        "id": "news-space-1114",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Amazon rebrands its Starlink competitor to Amazon Leo",
+                "description": "Amazon is officially calling its satellite internet network Amazon Leo.",
+                "hashtags": [
+                    "#news",
+                    "#space"
+                ]
+            },
+            "tr": {
+                "title": "Amazon rebrands its Starlink competitor to Amazon Leo",
+                "description": "Amazon is officially calling its satellite internet network Amazon Leo.",
+                "hashtags": [
+                    "#haber",
+                    "#space"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/science/space/amazon-rebrands-its-starlink-competitor-to-amazon-leo-214453569.html"
+    },
+    {
+        "id": "news-mobile-718",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Apple will reportedly refuse to pre-install India's state-mandated security app",
+                "description": "Critics worry the app, billed for finding missing devices, presents cybersecurity risks.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "Apple will reportedly refuse to pre-install India's state-mandated security app",
+                "description": "Critics worry the app, billed for finding missing devices, presents cybersecurity risks.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html"
+    },
+    {
+        "id": "news-ai-0",
+        "time": "Today",
         "tags": [
             {
                 "text": "AI",
@@ -94,44 +464,139 @@
                 "title": "How to watch Rivian's Autonomy and AI day and what to expect",
                 "description": "We'll likely hear more about the company's hands-off driving features.",
                 "hashtags": [
-                    "#news"
+                    "#news",
+                    "#ai"
                 ]
             },
             "tr": {
                 "title": "How to watch Rivian's Autonomy and AI day and what to expect",
                 "description": "We'll likely hear more about the company's hands-off driving features.",
                 "hashtags": [
-                    "#haber"
+                    "#haber",
+                    "#ai"
                 ]
             }
         },
         "url": "https://www.engadget.com/transportation/evs/how-to-watch-rivians-autonomy-and-ai-day-and-what-to-expect-192838410.html"
     },
     {
-        "id": "news-excel-5",
+        "id": "news-space-1114",
+        "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
             }
         ],
         "content": {
             "en": {
-                "title": "Tech's biggest winners of 2025",
-                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "title": "Scientists observed a black hole flare that 'shined with the light of 10 trillion suns'",
+                "description": "Researchers have recorded the largest and most distant black hole flare to date, and the numbers around it are pretty staggering.&nbsp;",
                 "hashtags": [
-                    "#news"
+                    "#news",
+                    "#space"
                 ]
             },
             "tr": {
-                "title": "Tech's biggest winners of 2025",
-                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "title": "Scientists observed a black hole flare that 'shined with the light of 10 trillion suns'",
+                "description": "Researchers have recorded the largest and most distant black hole flare to date, and the numbers around it are pretty staggering.&nbsp;",
                 "hashtags": [
-                    "#haber"
+                    "#haber",
+                    "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/techs-biggest-winners-of-2025-180000177.html"
+        "url": "https://www.engadget.com/science/space/scientists-observed-a-black-hole-flare-that-shined-with-the-light-of-10-trillion-suns-235414438.html"
+    },
+    {
+        "id": "news-mobile-718",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Google and Apple partner on better Android-iPhone switching",
+                "description": "The latest build of Android's Canary operating system includes optional data transfer between Google and Apple smartphones.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "Google and Apple partner on better Android-iPhone switching",
+                "description": "The latest build of Android's Canary operating system includes optional data transfer between Google and Apple smartphones.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/google-and-apple-partner-on-better-android-iphone-switching-204738960.html"
+    },
+    {
+        "id": "news-gear-1472",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Google Pixel Watch 4 gets double pinch and wrist turn features",
+                "description": "You might recognize them from the Apple Watch.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "Google Pixel Watch 4 gets double pinch and wrist turn features",
+                "description": "You might recognize them from the Apple Watch.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/wearables/google-pixel-watch-4-gets-double-pinch-and-wrist-turn-features-170024210.html"
+    },
+    {
+        "id": "news-space-1114",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Blue Origin's New Glenn rocket safely made it to space a second time",
+                "description": "Blue Origin's New Glenn rocket completed its second flight, and didn't lose its first stage booster in the process.",
+                "hashtags": [
+                    "#news",
+                    "#space"
+                ]
+            },
+            "tr": {
+                "title": "Blue Origin's New Glenn rocket safely made it to space a second time",
+                "description": "Blue Origin's New Glenn rocket completed its second flight, and didn't lose its first stage booster in the process.",
+                "hashtags": [
+                    "#haber",
+                    "#space"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/science/space/blue-origins-new-glenn-rocket-safely-made-it-to-space-a-second-time-230324439.html"
     }
 ]
