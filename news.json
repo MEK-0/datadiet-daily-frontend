@@ -1,62 +1,137 @@
 [
     {
-        "id": "news-update-1",
-        "time": "01:09 AM",
+        "id": "news-excel-1",
         "tags": [
             {
-                "text": "PYTHON-TEST",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "code"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Python Script Successfully Updated Feed",
-                "description": "This news item was generated automatically by your Python backend script. The pipeline is working!",
-                "hashtags": [
-                    "#python",
-                    "#automation",
-                    "#testing"
-                ]
-            },
-            "tr": {
-                "title": "Python Scripti Akışı Başarıyla Güncelledi",
-                "description": "Bu haber maddesi Python backend scriptiniz tarafından otomatik oluşturuldu. Boru hattı çalışıyor!",
-                "hashtags": [
-                    "#python",
-                    "#otomasyon",
-                    "#test"
-                ]
-            }
-        }
-    },
-    {
-        "id": "news-update-2",
-        "time": "08:15 AM",
-        "tags": [
-            {
-                "text": "AI-MODEL",
+                "text": "AI",
                 "colorClass": "text-blue-400 border-blue-400/30",
                 "type": "ai"
             }
         ],
         "content": {
             "en": {
-                "title": "OpenAI Announces 'o1' Model",
-                "description": "New reasoning-capable model outperforms predecessors in math and coding by 40%.",
+                "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
+                "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
                 "hashtags": [
-                    "#machinelearning",
-                    "#openai"
+                    "#news"
                 ]
             },
             "tr": {
-                "title": "OpenAI 'o1' Modelini Duyurdu",
-                "description": "Yeni mantık yürütebilen model, matematik ve kodlamada öncekilerden %40 daha iyi.",
+                "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
+                "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
                 "hashtags": [
-                    "#yapayzeka",
-                    "#openai"
+                    "#haber"
                 ]
             }
-        }
+        },
+        "url": "https://www.engadget.com/ai/amazon-is-rolling-out-new-shopping-features-for-alexa-because-of-course-it-is-150000355.html"
+    },
+    {
+        "id": "news-excel-2",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
+                "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
+                "hashtags": [
+                    "#news"
+                ]
+            },
+            "tr": {
+                "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
+                "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
+                "hashtags": [
+                    "#haber"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/big-tech/texas-authorities-have-made-multiple-arrests-in-an-nvidia-gpu-smuggling-operation-144749526.html"
+    },
+    {
+        "id": "news-excel-3",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
+                "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
+                "hashtags": [
+                    "#news"
+                ]
+            },
+            "tr": {
+                "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
+                "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
+                "hashtags": [
+                    "#haber"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/entertainment/streaming/an-ai-copycat-of-king-gizzard--the-lizard-wizard-went-unnoticed-on-spotify-for-weeks-220018144.html"
+    },
+    {
+        "id": "news-excel-4",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "How to watch Rivian's Autonomy and AI day and what to expect",
+                "description": "We'll likely hear more about the company's hands-off driving features.",
+                "hashtags": [
+                    "#news"
+                ]
+            },
+            "tr": {
+                "title": "How to watch Rivian's Autonomy and AI day and what to expect",
+                "description": "We'll likely hear more about the company's hands-off driving features.",
+                "hashtags": [
+                    "#haber"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/transportation/evs/how-to-watch-rivians-autonomy-and-ai-day-and-what-to-expect-192838410.html"
+    },
+    {
+        "id": "news-excel-5",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Tech's biggest winners of 2025",
+                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "hashtags": [
+                    "#news"
+                ]
+            },
+            "tr": {
+                "title": "Tech's biggest winners of 2025",
+                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "hashtags": [
+                    "#haber"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/techs-biggest-winners-of-2025-180000177.html"
     }
 ]
