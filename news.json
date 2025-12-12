@@ -1,126 +1,6 @@
 [
     {
-        "id": "news-gear-1472",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The 11 best gifts under $25 for 2025",
-                "description": "Keep things simple, and affordable, with these unique gift ideas.",
-                "hashtags": [
-                    "#news",
-                    "#gear"
-                ]
-            },
-            "tr": {
-                "title": "The 11 best gifts under $25 for 2025",
-                "description": "Keep things simple, and affordable, with these unique gift ideas.",
-                "hashtags": [
-                    "#haber",
-                    "#gear"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/computing/accessories/the-11-best-gifts-under-25-for-2025-140042203.html"
-    },
-    {
-        "id": "news-mobile-718",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The best wireless chargers for 2025",
-                "description": "Here's what to look for when buying a wireless phone charger, as well a list of the best wireless chargers you can buy right now.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "The best wireless chargers for 2025",
-                "description": "Here's what to look for when buying a wireless phone charger, as well a list of the best wireless chargers you can buy right now.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/computing/accessories/best-wireless-charger-140036359.html"
-    },
-    {
-        "id": "news-gaming-401",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The AI boom could soon send GPU prices soaring, so now's a good time to buy one",
-                "description": "With the AI boom poised to make all consumer electronics more expensive, there might be a small window of opportunity to buy a GPU at a reasonable price.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "The AI boom could soon send GPU prices soaring, so now's a good time to buy one",
-                "description": "With the AI boom poised to make all consumer electronics more expensive, there might be a small window of opportunity to buy a GPU at a reasonable price.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/gaming/pc/the-ai-boom-could-soon-send-gpu-prices-soaring-so-nows-a-good-time-to-buy-one-153000063.html"
-    },
-    {
-        "id": "news-gaming-401",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Katsuhiro Harada is leaving Bandai Namco after 30 years",
-                "description": "Harada announced the news both with a farewell note shared on X and, in possibly the coolest exit ever, with an hour-long DJ mix.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "Katsuhiro Harada is leaving Bandai Namco after 30 years",
-                "description": "Harada announced the news both with a farewell note shared on X and, in possibly the coolest exit ever, with an hour-long DJ mix.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html"
-    },
-    {
-        "id": "news-space-1114",
+        "id": "news-space-1118",
         "time": "Today",
         "tags": [
             {
@@ -131,56 +11,26 @@
         ],
         "content": {
             "en": {
-                "title": "Blue Origin scrubs New Glenn's second flight due to bad weather",
-                "description": "The rocket, carrying the twin satellites for NASA's Escapade mission, will have to launch another day.",
+                "title": "Europe's big three aerospace manufacturers combine their space divisions to create a rival to SpaceX",
+                "description": "Europe's big three aerospace manufacturers are combining their space divisions to create a pan-European entity. This company could rival SpaceX and Starlink.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "Blue Origin scrubs New Glenn's second flight due to bad weather",
-                "description": "The rocket, carrying the twin satellites for NASA's Escapade mission, will have to launch another day.",
+                "title": "Europe's big three aerospace manufacturers combine their space divisions to create a rival to SpaceX",
+                "description": "Europe's big three aerospace manufacturers are combining their space divisions to create a pan-European entity. This company could rival SpaceX and Starlink.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/blue-origin-scrubs-new-glenns-second-flight-due-to-bad-weather-214349212.html"
+        "url": "https://www.engadget.com/science/space/europes-big-three-aerospace-manufacturers-combine-their-space-divisions-to-create-a-rival-to-spacex-153424228.html"
     },
     {
-        "id": "news-mobile-718",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Samsung fully unveils its Galaxy Z TriFold phone, and it'll be available in Korea in a few days",
-                "description": "The Galaxy Z TriFold will be available in Korea later this month, but no price has been revealed yet.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "Samsung fully unveils its Galaxy Z TriFold phone, and it'll be available in Korea in a few days",
-                "description": "The Galaxy Z TriFold will be available in Korea later this month, but no price has been revealed yet.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/mobile/smartphones/samsung-fully-unveils-its-galaxy-z-trifold-phone-and-itll-be-available-in-korea-in-a-few-days-010000499.html"
-    },
-    {
-        "id": "news-ai-0",
+        "id": "news-ai-4",
         "time": "Today",
         "tags": [
             {
@@ -191,86 +41,56 @@
         ],
         "content": {
             "en": {
-                "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
-                "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
+                "title": "The New York Times and Chicago Tribune sue Perplexity over alleged copyright infringement",
+                "description": "Both publications claim the AI company scraped their works for LLM training and often reproduced content verbatim.",
                 "hashtags": [
                     "#news",
                     "#ai"
                 ]
             },
             "tr": {
-                "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
-                "description": "The assistant can keep an eye on a certain product and automatically order the item when it's on sale for a price you specify.",
+                "title": "The New York Times and Chicago Tribune sue Perplexity over alleged copyright infringement",
+                "description": "Both publications claim the AI company scraped their works for LLM training and often reproduced content verbatim.",
                 "hashtags": [
                     "#haber",
                     "#ai"
                 ]
             }
         },
-        "url": "https://www.engadget.com/ai/amazon-is-rolling-out-new-shopping-features-for-alexa-because-of-course-it-is-150000355.html"
+        "url": "https://www.engadget.com/ai/the-new-york-times-and-chicago-tribune-sue-perplexity-over-alleged-copyright-infringement-153656431.html"
     },
     {
-        "id": "news-ai-0",
+        "id": "news-space-1118",
         "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
             }
         ],
         "content": {
             "en": {
-                "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
-                "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
+                "title": "SpaceX's Starshield satellites are reportedly transmitting signals on unauthorized frequencies",
+                "description": "SpaceX's Starshield satellites might be violating international standards to transmit data to Earth.",
                 "hashtags": [
                     "#news",
-                    "#ai"
+                    "#space"
                 ]
             },
             "tr": {
-                "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
-                "description": "Authorities in Texas made arrests in a vast smuggling operation for H100 and H200 NVIDIA chips.",
+                "title": "SpaceX's Starshield satellites are reportedly transmitting signals on unauthorized frequencies",
+                "description": "SpaceX's Starshield satellites might be violating international standards to transmit data to Earth.",
                 "hashtags": [
                     "#haber",
-                    "#ai"
+                    "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/big-tech/texas-authorities-have-made-multiple-arrests-in-an-nvidia-gpu-smuggling-operation-144749526.html"
+        "url": "https://www.engadget.com/science/space/spacexs-starshield-satellites-are-reportedly-transmitting-signals-on-unauthorized-frequencies-212939991.html"
     },
     {
-        "id": "news-gear-1472",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Our favorite Anker MagSafe power bank is 34 percent off right now",
-                "description": "Pick up Anker's MagGo 10,000mAh Power Bank for just $60.",
-                "hashtags": [
-                    "#news",
-                    "#gear"
-                ]
-            },
-            "tr": {
-                "title": "Our favorite Anker MagSafe power bank is 34 percent off right now",
-                "description": "Pick up Anker's MagGo 10,000mAh Power Bank for just $60.",
-                "hashtags": [
-                    "#haber",
-                    "#gear"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/deals/our-favorite-anker-magsafe-power-bank-is-34-percent-off-right-now-151039224.html"
-    },
-    {
-        "id": "news-gaming-401",
+        "id": "news-gaming-405",
         "time": "Today",
         "tags": [
             {
@@ -281,26 +101,26 @@
         ],
         "content": {
             "en": {
-                "title": "Skyrim arrives on the Switch 2",
-                "description": "The digital-only port costs $60 if you don't own it for the original Switch.",
+                "title": "Analogue is weaponizing your nostalgia with these translucent versions of its 3D console",
+                "description": "Analogue just announced new colorways for its 3D console, which plays N64 games. The translucent designs resemble Nintendo's redesigns from the late 1990s.",
                 "hashtags": [
                     "#news",
                     "#gaming"
                 ]
             },
             "tr": {
-                "title": "Skyrim arrives on the Switch 2",
-                "description": "The digital-only port costs $60 if you don't own it for the original Switch.",
+                "title": "Analogue is weaponizing your nostalgia with these translucent versions of its 3D console",
+                "description": "Analogue just announced new colorways for its 3D console, which plays N64 games. The translucent designs resemble Nintendo's redesigns from the late 1990s.",
                 "hashtags": [
                     "#haber",
                     "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/gaming/nintendo/skyrim-arrives-on-the-switch-2-175200223.html"
+        "url": "https://www.engadget.com/gaming/analogue-is-weaponizing-your-nostalgia-with-these-translucent-versions-of-its-3d-console-181105740.html"
     },
     {
-        "id": "news-gear-1472",
+        "id": "news-gear-1476",
         "time": "Today",
         "tags": [
             {
@@ -311,26 +131,116 @@
         ],
         "content": {
             "en": {
-                "title": "Pebble is making a weird little smart ring for recording thoughts",
-                "description": "Pebble just announced the Index 01, a smart ring for recording thoughts. It's basically a ring with a microphone.",
+                "title": "EU opens antitrust investigation into Google's AI practices",
+                "description": "The European Commission is digging into Google's lack of compensation for publishers and YouTube creators.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "Pebble is making a weird little smart ring for recording thoughts",
-                "description": "Pebble just announced the Index 01, a smart ring for recording thoughts. It's basically a ring with a microphone.",
+                "title": "EU opens antitrust investigation into Google's AI practices",
+                "description": "The European Commission is digging into Google's lack of compensation for publishers and YouTube creators.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/wearables/pebble-is-making-a-weird-little-smart-ring-for-recording-thoughts-161723645.html"
+        "url": "https://www.engadget.com/big-tech/eu-opens-antitrust-investigation-into-googles-ai-practices-133015762.html"
     },
     {
-        "id": "news-gaming-401",
+        "id": "news-ai-4",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Meta's latest acquisition suggests hardware plans beyond glasses and headsets",
+                "description": "Limitless will work on consumer AI hardware, likely supported by Meta's new design studio led by Alan Dye.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Meta's latest acquisition suggests hardware plans beyond glasses and headsets",
+                "description": "Limitless will work on consumer AI hardware, likely supported by Meta's new design studio led by Alan Dye.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/metas-latest-acquisition-suggests-hardware-plans-beyond-glasses-and-headsets-212930339.html"
+    },
+    {
+        "id": "news-ai-4",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Tech's biggest winners of 2025",
+                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Tech's biggest winners of 2025",
+                "description": "The companies, products and trends that fared the best over the last 12 months.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/techs-biggest-winners-of-2025-180000177.html"
+    },
+    {
+        "id": "news-mobile-722",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "How to wirelessly charge your phone with max power",
+                "description": "Learn how to get the fastest possible wireless charge by using the right Qi2-certified charger, adapter and cable setup.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "How to wirelessly charge your phone with max power",
+                "description": "Learn how to get the fastest possible wireless charge by using the right Qi2-certified charger, adapter and cable setup.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/how-to-wirelessly-charge-your-phone-with-max-power-130013170.html"
+    },
+    {
+        "id": "news-gaming-405",
         "time": "Today",
         "tags": [
             {
@@ -341,56 +251,26 @@
         ],
         "content": {
             "en": {
-                "title": "Microsoft Flight Sim 2024 now has a Stranger Things expansion",
-                "description": "Microsoft Flight Simulator 2024 just introduced an expansion inspired by the Netflix show Stranger Things. It lets people fly over Hawkins and complete missions.",
+                "title": "A Marvel beat-'em-up, long-awaited survival horror and other new indie games worth checking out",
+                "description": "Plus, an RPG made with 3D ASCII art and a bizarre idle game that features geese and human fingers.",
                 "hashtags": [
                     "#news",
                     "#gaming"
                 ]
             },
             "tr": {
-                "title": "Microsoft Flight Sim 2024 now has a Stranger Things expansion",
-                "description": "Microsoft Flight Simulator 2024 just introduced an expansion inspired by the Netflix show Stranger Things. It lets people fly over Hawkins and complete missions.",
+                "title": "A Marvel beat-'em-up, long-awaited survival horror and other new indie games worth checking out",
+                "description": "Plus, an RPG made with 3D ASCII art and a bizarre idle game that features geese and human fingers.",
                 "hashtags": [
                     "#haber",
                     "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/gaming/microsoft-flight-sim-2024-now-has-a-stranger-things-expansion-173944325.html"
+        "url": "https://www.engadget.com/gaming/a-marvel-beat-em-up-long-awaited-survival-horror-and-other-new-indie-games-worth-checking-out-120000228.html"
     },
     {
-        "id": "news-ai-0",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
-                "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
-                "hashtags": [
-                    "#news",
-                    "#ai"
-                ]
-            },
-            "tr": {
-                "title": "An AI copycat of King Gizzard & the Lizard Wizard went unnoticed on Spotify for weeks",
-                "description": "A poster on Reddit said they were recommended what appeared to be an AI-generated copy of one of the band's songs in Spotify’s Release Radar playlist",
-                "hashtags": [
-                    "#haber",
-                    "#ai"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/entertainment/streaming/an-ai-copycat-of-king-gizzard--the-lizard-wizard-went-unnoticed-on-spotify-for-weeks-220018144.html"
-    },
-    {
-        "id": "news-space-1114",
+        "id": "news-space-1118",
         "time": "Today",
         "tags": [
             {
@@ -401,26 +281,26 @@
         ],
         "content": {
             "en": {
-                "title": "Amazon rebrands its Starlink competitor to Amazon Leo",
-                "description": "Amazon is officially calling its satellite internet network Amazon Leo.",
+                "title": "SpaceX will attempt Starship's 11th flight test on Monday",
+                "description": "Starship is scheduled to launch no earlier than 7:15PM ET on October 13.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "Amazon rebrands its Starlink competitor to Amazon Leo",
-                "description": "Amazon is officially calling its satellite internet network Amazon Leo.",
+                "title": "SpaceX will attempt Starship's 11th flight test on Monday",
+                "description": "Starship is scheduled to launch no earlier than 7:15PM ET on October 13.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/amazon-rebrands-its-starlink-competitor-to-amazon-leo-214453569.html"
+        "url": "https://www.engadget.com/science/space/spacex-will-attempt-starships-11th-flight-test-on-monday-204237829.html"
     },
     {
-        "id": "news-mobile-718",
+        "id": "news-mobile-722",
         "time": "Today",
         "tags": [
             {
@@ -431,26 +311,86 @@
         ],
         "content": {
             "en": {
-                "title": "Apple will reportedly refuse to pre-install India's state-mandated security app",
-                "description": "Critics worry the app, billed for finding missing devices, presents cybersecurity risks.",
+                "title": "Marques Brownlee's controversial Panels app is shutting down",
+                "description": "YouTuber Marques Brownlee's Panels app is officially shutting down at the end of year. Those who paid for annual subscriptions will be getting refunds.",
                 "hashtags": [
                     "#news",
                     "#mobile"
                 ]
             },
             "tr": {
-                "title": "Apple will reportedly refuse to pre-install India's state-mandated security app",
-                "description": "Critics worry the app, billed for finding missing devices, presents cybersecurity risks.",
+                "title": "Marques Brownlee's controversial Panels app is shutting down",
+                "description": "YouTuber Marques Brownlee's Panels app is officially shutting down at the end of year. Those who paid for annual subscriptions will be getting refunds.",
                 "hashtags": [
                     "#haber",
                     "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/big-tech/apple-will-reportedly-refuse-to-pre-install-indias-state-mandated-security-app-143050110.html"
+        "url": "https://www.engadget.com/apps/marques-brownlees-controversial-panels-app-is-shutting-down-192224468.html"
     },
     {
-        "id": "news-ai-0",
+        "id": "news-mobile-722",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The OnePlus 15R smartphone is budget-friendly, durable and coming next month",
+                "description": "OnePlus just revealed a trio of forthcoming products. There's the 15R smartphone, a tablet and a watch.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "The OnePlus 15R smartphone is budget-friendly, durable and coming next month",
+                "description": "OnePlus just revealed a trio of forthcoming products. There's the 15R smartphone, a tablet and a watch.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/the-oneplus-15r-smartphone-is-budget-friendly-durable-and-coming-next-month-163000244.html"
+    },
+    {
+        "id": "news-gaming-405",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Liquid Swords' debut title is a $25 'noir action game' coming next year",
+                "description": "Samson: A Tyndalston Story is from the creator of Just Cause.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Liquid Swords' debut title is a $25 'noir action game' coming next year",
+                "description": "Samson: A Tyndalston Story is from the creator of Just Cause.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/pc/liquid-swords-debut-title-is-a-25-noir-action-game-coming-next-year-215544328.html"
+    },
+    {
+        "id": "news-ai-4",
         "time": "Today",
         "tags": [
             {
@@ -461,86 +401,26 @@
         ],
         "content": {
             "en": {
-                "title": "How to watch Rivian's Autonomy and AI day and what to expect",
-                "description": "We'll likely hear more about the company's hands-off driving features.",
+                "title": "Blink budget security cameras will support AI-powered video descriptions",
+                "description": "Amazon is adding AI-generated video descriptions as a new subscription benefit on its Blink cameras and doorbells.",
                 "hashtags": [
                     "#news",
                     "#ai"
                 ]
             },
             "tr": {
-                "title": "How to watch Rivian's Autonomy and AI day and what to expect",
-                "description": "We'll likely hear more about the company's hands-off driving features.",
+                "title": "Blink budget security cameras will support AI-powered video descriptions",
+                "description": "Amazon is adding AI-generated video descriptions as a new subscription benefit on its Blink cameras and doorbells.",
                 "hashtags": [
                     "#haber",
                     "#ai"
                 ]
             }
         },
-        "url": "https://www.engadget.com/transportation/evs/how-to-watch-rivians-autonomy-and-ai-day-and-what-to-expect-192838410.html"
+        "url": "https://www.engadget.com/home/smart-home/blink-budget-security-cameras-will-support-ai-powered-video-descriptions-143000725.html"
     },
     {
-        "id": "news-space-1114",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Space",
-                "colorClass": "text-yellow-400 border-yellow-400/30",
-                "type": "space"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Scientists observed a black hole flare that 'shined with the light of 10 trillion suns'",
-                "description": "Researchers have recorded the largest and most distant black hole flare to date, and the numbers around it are pretty staggering.&nbsp;",
-                "hashtags": [
-                    "#news",
-                    "#space"
-                ]
-            },
-            "tr": {
-                "title": "Scientists observed a black hole flare that 'shined with the light of 10 trillion suns'",
-                "description": "Researchers have recorded the largest and most distant black hole flare to date, and the numbers around it are pretty staggering.&nbsp;",
-                "hashtags": [
-                    "#haber",
-                    "#space"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/science/space/scientists-observed-a-black-hole-flare-that-shined-with-the-light-of-10-trillion-suns-235414438.html"
-    },
-    {
-        "id": "news-mobile-718",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Google and Apple partner on better Android-iPhone switching",
-                "description": "The latest build of Android's Canary operating system includes optional data transfer between Google and Apple smartphones.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "Google and Apple partner on better Android-iPhone switching",
-                "description": "The latest build of Android's Canary operating system includes optional data transfer between Google and Apple smartphones.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/mobile/smartphones/google-and-apple-partner-on-better-android-iphone-switching-204738960.html"
-    },
-    {
-        "id": "news-gear-1472",
+        "id": "news-gear-1476",
         "time": "Today",
         "tags": [
             {
@@ -551,26 +431,86 @@
         ],
         "content": {
             "en": {
-                "title": "Google Pixel Watch 4 gets double pinch and wrist turn features",
-                "description": "You might recognize them from the Apple Watch.",
+                "title": "NVIDIA can now sell its high-end AI chips to 'approved customers in China,' Trump says",
+                "description": "NVIDIA is now allowed to sell its high-end H200 processors to China, rather than just the sanction-approved H20 model that China had previously declined to buy.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "Google Pixel Watch 4 gets double pinch and wrist turn features",
-                "description": "You might recognize them from the Apple Watch.",
+                "title": "NVIDIA can now sell its high-end AI chips to 'approved customers in China,' Trump says",
+                "description": "NVIDIA is now allowed to sell its high-end H200 processors to China, rather than just the sanction-approved H20 model that China had previously declined to buy.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/wearables/google-pixel-watch-4-gets-double-pinch-and-wrist-turn-features-170024210.html"
+        "url": "https://www.engadget.com/big-tech/nvidia-can-now-sell-its-high-end-ai-chips-to-approved-customers-in-china-trump-says-130007458.html"
     },
     {
-        "id": "news-space-1114",
+        "id": "news-gear-1476",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The Morning After: Tech’s biggest winners of 2025",
+                "description": "The biggest news stories this morning: Google and Apple partner on better Android–iPhone switching, Team Cherry is working on more Silksong content, How Google is laying the foundation for our mixed reality future",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "The Morning After: Tech’s biggest winners of 2025",
+                "description": "The biggest news stories this morning: Google and Apple partner on better Android–iPhone switching, Team Cherry is working on more Silksong content, How Google is laying the foundation for our mixed reality future",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-122328464.html"
+    },
+    {
+        "id": "news-mobile-722",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The best iPad for 2025: How to pick the best Apple tablet for you",
+                "description": "Finding the right iPad for you can be complicated. We've laid out the differences between each model and dove into everything you need to know before buying a new Apple tablet.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "The best iPad for 2025: How to pick the best Apple tablet for you",
+                "description": "Finding the right iPad for you can be complicated. We've laid out the differences between each model and dove into everything you need to know before buying a new Apple tablet.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/tablets/best-ipads-how-to-pick-the-best-apple-tablet-for-you-150054066.html"
+    },
+    {
+        "id": "news-space-1118",
         "time": "Today",
         "tags": [
             {
@@ -581,22 +521,82 @@
         ],
         "content": {
             "en": {
-                "title": "Blue Origin's New Glenn rocket safely made it to space a second time",
-                "description": "Blue Origin's New Glenn rocket completed its second flight, and didn't lose its first stage booster in the process.",
+                "title": "SpaceX is preparing the next-gen Starship after a successful flight test",
+                "description": "SpaceX achieved every major objective it set for the super-heavy lift vehicle's 11th flight test, the second-gen Starship's final flight, which launched from Starbase in Texas on October 13.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "Blue Origin's New Glenn rocket safely made it to space a second time",
-                "description": "Blue Origin's New Glenn rocket completed its second flight, and didn't lose its first stage booster in the process.",
+                "title": "SpaceX is preparing the next-gen Starship after a successful flight test",
+                "description": "SpaceX achieved every major objective it set for the super-heavy lift vehicle's 11th flight test, the second-gen Starship's final flight, which launched from Starbase in Texas on October 13.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/blue-origins-new-glenn-rocket-safely-made-it-to-space-a-second-time-230324439.html"
+        "url": "https://www.engadget.com/science/space/spacex-is-preparing-the-next-gen-starship-after-a-successful-flight-test-130027382.html"
+    },
+    {
+        "id": "news-gaming-405",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Pixel owners: You can now use your phone as a Switch 2 webcam",
+                "description": "The November Pixel Drop provided the fix.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Pixel owners: You can now use your phone as a Switch 2 webcam",
+                "description": "The November Pixel Drop provided the fix.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/nintendo/pixel-owners-you-can-now-use-your-phone-as-a-switch-2-webcam-203407555.html"
+    },
+    {
+        "id": "news-gear-1476",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Apple's AirPods Pro 3 are back to an all-time low price",
+                "description": "Grab the latest AirPods Pro for $220.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "Apple's AirPods Pro 3 are back to an all-time low price",
+                "description": "Grab the latest AirPods Pro for $220.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/deals/apples-airpods-pro-3-are-back-to-an-all-time-low-price-222806220.html"
     }
 ]
