@@ -1,126 +1,6 @@
 [
     {
-        "id": "news-space-1122",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Space",
-                "colorClass": "text-yellow-400 border-yellow-400/30",
-                "type": "space"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Human stem cells age more rapidly in space, study finds",
-                "description": "Researchers from the University of California San Diego monitored the real-time changes of stem cells sent to the ISS for a month.",
-                "hashtags": [
-                    "#news",
-                    "#space"
-                ]
-            },
-            "tr": {
-                "title": "Human stem cells age more rapidly in space, study finds",
-                "description": "Researchers from the University of California San Diego monitored the real-time changes of stem cells sent to the ISS for a month.",
-                "hashtags": [
-                    "#haber",
-                    "#space"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/human-stem-cells-age-more-rapidly-in-space-study-finds-145651426.html"
-    },
-    {
-        "id": "news-gaming-409",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The best stocking stuffers you can get for $50 or less",
-                "description": "When you don’t have a ton of space (or money) to spare, these gifts are clutch.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "The best stocking stuffers you can get for $50 or less",
-                "description": "When you don’t have a ton of space (or money) to spare, these gifts are clutch.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/computing/accessories/the-best-stocking-stuffers-you-can-get-for-50-or-less-130049325.html"
-    },
-    {
-        "id": "news-space-1122",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Space",
-                "colorClass": "text-yellow-400 border-yellow-400/30",
-                "type": "space"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Saturn’s ocean moon looks more hospitable to subsurface life than we thought",
-                "description": "Material from the icy jet reveals complex organic chemistry.",
-                "hashtags": [
-                    "#news",
-                    "#space"
-                ]
-            },
-            "tr": {
-                "title": "Saturn’s ocean moon looks more hospitable to subsurface life than we thought",
-                "description": "Material from the icy jet reveals complex organic chemistry.",
-                "hashtags": [
-                    "#haber",
-                    "#space"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/science/space/saturns-ocean-moon-looks-more-hospitable-to-subsurface-life-than-we-thought-174149814.html"
-    },
-    {
-        "id": "news-gear-1480",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The 22 best gift ideas for the remote worker in your life",
-                "description": "Make their home office environment more comfortable with these gadgets.",
-                "hashtags": [
-                    "#news",
-                    "#gear"
-                ]
-            },
-            "tr": {
-                "title": "The 22 best gift ideas for the remote worker in your life",
-                "description": "Make their home office environment more comfortable with these gadgets.",
-                "hashtags": [
-                    "#haber",
-                    "#gear"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/computing/accessories/the-22-best-gift-ideas-for-the-remote-worker-in-your-life-140037336.html"
-    },
-    {
-        "id": "news-mobile-726",
+        "id": "news-mobile-730",
         "time": "Today",
         "tags": [
             {
@@ -131,26 +11,26 @@
         ],
         "content": {
             "en": {
-                "title": "Verizon may cut 15,000 jobs next week",
-                "description": "The Wall Street Journal reported that Verizon plans to cut about 15,000 jobs over the next week.",
+                "title": "The best E Ink tablets for 2025",
+                "description": "The best tablets for reading and writing to your heart's content.",
                 "hashtags": [
                     "#news",
                     "#mobile"
                 ]
             },
             "tr": {
-                "title": "Verizon may cut 15,000 jobs next week",
-                "description": "The Wall Street Journal reported that Verizon plans to cut about 15,000 jobs over the next week.",
+                "title": "The best E Ink tablets for 2025",
+                "description": "The best tablets for reading and writing to your heart's content.",
                 "hashtags": [
                     "#haber",
                     "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/mobile/verizon-may-cut-15000-jobs-next-week-214143406.html"
+        "url": "https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html"
     },
     {
-        "id": "news-space-1122",
+        "id": "news-space-1126",
         "time": "Today",
         "tags": [
             {
@@ -161,176 +41,56 @@
         ],
         "content": {
             "en": {
-                "title": "NASA resurrects its VIPER moon rover for a 2027 mission with Blue Origin",
-                "description": "NASA announced that it has selected Blue Origin to bring its VIPER rover to the moon, over a year after the project was scrapped.",
+                "title": "Webb telescope spots a new moon orbiting Uranus",
+                "description": "It's estimated to be only six miles wide.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "NASA resurrects its VIPER moon rover for a 2027 mission with Blue Origin",
-                "description": "NASA announced that it has selected Blue Origin to bring its VIPER rover to the moon, over a year after the project was scrapped.",
+                "title": "Webb telescope spots a new moon orbiting Uranus",
+                "description": "It's estimated to be only six miles wide.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/nasa-resurrects-its-viper-moon-rover-for-a-2027-mission-with-blue-origin-211315035.html"
+        "url": "https://www.engadget.com/science/space/webb-telescope-spots-a-new-moon-orbiting-uranus-182932627.html"
     },
     {
-        "id": "news-ai-8",
+        "id": "news-gaming-413",
         "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
             }
         ],
         "content": {
             "en": {
-                "title": "Engadget Podcast: WTF is up with RAM? (With Will Smith from The Tech Pod)",
-                "description": "This week, we chat with Will Smith (Brad and Will Made a Tech Pod) about the state of the RAM industry, as well as other hardware we expect to get more expensive.",
+                "title": "Cairn's new release date is January 29, 2026",
+                "description": "Anticipated indie game Cairn has gotten a new release date after a delay in the fall.",
                 "hashtags": [
                     "#news",
-                    "#ai"
+                    "#gaming"
                 ]
             },
             "tr": {
-                "title": "Engadget Podcast: WTF is up with RAM? (With Will Smith from The Tech Pod)",
-                "description": "This week, we chat with Will Smith (Brad and Will Made a Tech Pod) about the state of the RAM industry, as well as other hardware we expect to get more expensive.",
+                "title": "Cairn's new release date is January 29, 2026",
+                "description": "Anticipated indie game Cairn has gotten a new release date after a delay in the fall.",
                 "hashtags": [
                     "#haber",
-                    "#ai"
+                    "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/social-media/engadget-podcast-wtf-is-up-with-ram-with-will-smith-from-the-tech-pod-141442002.html"
+        "url": "https://www.engadget.com/gaming/cairns-new-release-date-is-january-29-2026-211508330.html"
     },
     {
-        "id": "news-gear-1480",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The developer behind ICEBlock is suing the federal government",
-                "description": "The developer behind the ICEBlock app is suing the Trump administration over Apple's takedown of the app.",
-                "hashtags": [
-                    "#news",
-                    "#gear"
-                ]
-            },
-            "tr": {
-                "title": "The developer behind ICEBlock is suing the federal government",
-                "description": "The developer behind the ICEBlock app is suing the Trump administration over Apple's takedown of the app.",
-                "hashtags": [
-                    "#haber",
-                    "#gear"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/general/the-developer-behind-iceblock-is-suing-the-federal-government-165111674.html"
-    },
-    {
-        "id": "news-ai-8",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Amazon rolls out a find-a-scene Alexa+ feature for Prime Video",
-                "description": "The Fire TV tool can understand quotes, character names and scene descriptions and take you to that point of a movie.",
-                "hashtags": [
-                    "#news",
-                    "#ai"
-                ]
-            },
-            "tr": {
-                "title": "Amazon rolls out a find-a-scene Alexa+ feature for Prime Video",
-                "description": "The Fire TV tool can understand quotes, character names and scene descriptions and take you to that point of a movie.",
-                "hashtags": [
-                    "#haber",
-                    "#ai"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/ai/amazon-rolls-out-a-find-a-scene-alexa-feature-for-prime-video-150557530.html"
-    },
-    {
-        "id": "news-mobile-726",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "How to add someone to an Apple Family account",
-                "description": "Easily share your Apple subscriptions, iCloud storage, and purchases with family members using Family Sharing.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "How to add someone to an Apple Family account",
-                "description": "Easily share your Apple subscriptions, iCloud storage, and purchases with family members using Family Sharing.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/mobile/how-to-add-someone-to-an-apple-family-account-130033896.html"
-    },
-    {
-        "id": "news-mobile-726",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "OnePlus 15 review: A great phone, if photography isn't a priority",
-                "description": "If you don't mind a slightly underbaked camera, the OnePlus 15 is tremendous, offering among the best displays, performance and battery life you can find on a phone right now.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "OnePlus 15 review: A great phone, if photography isn't a priority",
-                "description": "If you don't mind a slightly underbaked camera, the OnePlus 15 is tremendous, offering among the best displays, performance and battery life you can find on a phone right now.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/mobile/smartphones/oneplus-15-review-a-great-phone-if-photography-isnt-a-priority-143000489.html"
-    },
-    {
-        "id": "news-space-1122",
+        "id": "news-space-1126",
         "time": "Today",
         "tags": [
             {
@@ -341,26 +101,26 @@
         ],
         "content": {
             "en": {
-                "title": "SpaceX scrubbed Starship's 10th test flight this evening",
-                "description": "Flight 10 comes after a series of setbacks for Starship this year.",
+                "title": "NASA's Lunar Trailblazer mission ends in disappointment",
+                "description": "NASA said today that its teams lost contact with the satellite shortly after its launch in February.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "SpaceX scrubbed Starship's 10th test flight this evening",
-                "description": "Flight 10 comes after a series of setbacks for Starship this year.",
+                "title": "NASA's Lunar Trailblazer mission ends in disappointment",
+                "description": "NASA said today that its teams lost contact with the satellite shortly after its launch in February.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/spacex-is-about-to-launch-starship-for-its-10th-test-flight-215652105.html"
+        "url": "https://www.engadget.com/science/space/nasas-lunar-trailblazer-mission-ends-in-disappointment-201318932.html"
     },
     {
-        "id": "news-gaming-409",
+        "id": "news-gaming-413",
         "time": "Today",
         "tags": [
             {
@@ -371,56 +131,56 @@
         ],
         "content": {
             "en": {
-                "title": "iam8bit is suing Skybound Game Studios alleging fraud and theft of designs",
-                "description": "Skybound Game Studios is being sued by indie outfit iam8bit on charges including fraud and breach of contract, including the theft of original designs.",
+                "title": "The Nintendo Switch 2 Mario Kart World bundle is still on sale for $50 off right now",
+                "description": "Pick up the duo for $449 in this much-extended Cyber Monday sale.",
                 "hashtags": [
                     "#news",
                     "#gaming"
                 ]
             },
             "tr": {
-                "title": "iam8bit is suing Skybound Game Studios alleging fraud and theft of designs",
-                "description": "Skybound Game Studios is being sued by indie outfit iam8bit on charges including fraud and breach of contract, including the theft of original designs.",
+                "title": "The Nintendo Switch 2 Mario Kart World bundle is still on sale for $50 off right now",
+                "description": "Pick up the duo for $449 in this much-extended Cyber Monday sale.",
                 "hashtags": [
                     "#haber",
                     "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/gaming/iam8bit-is-suing-skybound-game-studios-alleging-fraud-and-theft-of-designs-000822886.html"
+        "url": "https://www.engadget.com/deals/the-nintendo-switch-2-mario-kart-world-bundle-is-still-on-sale-for-50-off-right-now-150612988.html"
     },
     {
-        "id": "news-gear-1480",
+        "id": "news-space-1126",
         "time": "Today",
         "tags": [
             {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
             }
         ],
         "content": {
             "en": {
-                "title": "The best budgeting apps for 2025",
-                "description": "Budgeting apps can help you keep track of your finances, stick to a spending plan and reach your money goals. These are the best budget-tracking apps available right now.",
+                "title": "NASA's latest mission to the ISS features a bacterial experiment",
+                "description": "The strains of bacteria will be studied on how they grow in zero gravity conditions on the ISS.",
                 "hashtags": [
                     "#news",
-                    "#gear"
+                    "#space"
                 ]
             },
             "tr": {
-                "title": "The best budgeting apps for 2025",
-                "description": "Budgeting apps can help you keep track of your finances, stick to a spending plan and reach your money goals. These are the best budget-tracking apps available right now.",
+                "title": "NASA's latest mission to the ISS features a bacterial experiment",
+                "description": "The strains of bacteria will be studied on how they grow in zero gravity conditions on the ISS.",
                 "hashtags": [
                     "#haber",
-                    "#gear"
+                    "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/apps/best-budgeting-apps-120036303.html"
+        "url": "https://www.engadget.com/science/space/nasas-latest-mission-to-the-iss-features-a-bacterial-experiment-195004174.html"
     },
     {
-        "id": "news-ai-8",
+        "id": "news-ai-12",
         "time": "Today",
         "tags": [
             {
@@ -431,26 +191,56 @@
         ],
         "content": {
             "en": {
-                "title": "OpenAI's new confession system teaches models to be honest about bad behaviors",
-                "description": "OpenAI is working on a framework that will train AI models to acknowledge when they've engaged in undesirable behavior.",
+                "title": "Superhuman (formerly Grammarly) has some AI updates for its Superhuman Mail app",
+                "description": "The new features are designed with business users in mind.",
                 "hashtags": [
                     "#news",
                     "#ai"
                 ]
             },
             "tr": {
-                "title": "OpenAI's new confession system teaches models to be honest about bad behaviors",
-                "description": "OpenAI is working on a framework that will train AI models to acknowledge when they've engaged in undesirable behavior.",
+                "title": "Superhuman (formerly Grammarly) has some AI updates for its Superhuman Mail app",
+                "description": "The new features are designed with business users in mind.",
                 "hashtags": [
                     "#haber",
                     "#ai"
                 ]
             }
         },
-        "url": "https://www.engadget.com/ai/openais-new-confession-system-teaches-models-to-be-honest-about-bad-behaviors-210553482.html"
+        "url": "https://www.engadget.com/ai/superhuman-formerly-grammarly-has-some-ai-updates-for-its-superhuman-mail-app-140017716.html"
     },
     {
-        "id": "news-gaming-409",
+        "id": "news-ai-12",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Grok would prefer a second Holocaust over harming Elon Musk",
+                "description": "The chatbot may have also doxxed Dave Portnoy.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Grok would prefer a second Holocaust over harming Elon Musk",
+                "description": "The chatbot may have also doxxed Dave Portnoy.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/grok-would-prefer-a-second-holocaust-over-harming-elon-musk-200023093.html"
+    },
+    {
+        "id": "news-gaming-413",
         "time": "Today",
         "tags": [
             {
@@ -461,26 +251,146 @@
         ],
         "content": {
             "en": {
-                "title": "Splitgate: Arena Reloaded tries to fix what Splitgate 2 broke",
-                "description": "Portal shooter Splitgate 2 is coming back with a new name and rebuilt experience after being pulled back to beta earlier this year.",
+                "title": "Amazon Luna's December lineup includes Hollow Knight, Lego 2K Drive and a few Fallout games",
+                "description": "As usual, it's a mix of cloud games and redeemable PC codes.",
                 "hashtags": [
                     "#news",
                     "#gaming"
                 ]
             },
             "tr": {
-                "title": "Splitgate: Arena Reloaded tries to fix what Splitgate 2 broke",
-                "description": "Portal shooter Splitgate 2 is coming back with a new name and rebuilt experience after being pulled back to beta earlier this year.",
+                "title": "Amazon Luna's December lineup includes Hollow Knight, Lego 2K Drive and a few Fallout games",
+                "description": "As usual, it's a mix of cloud games and redeemable PC codes.",
                 "hashtags": [
                     "#haber",
                     "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/gaming/splitgate-arena-reloaded-tries-to-fix-what-splitgate-2-broke-130027714.html"
+        "url": "https://www.engadget.com/gaming/amazon-lunas-december-lineup-includes-hollow-knight-lego-2k-drive-and-a-few-fallout-games-180048528.html"
     },
     {
-        "id": "news-mobile-726",
+        "id": "news-gear-1484",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The Google Pixel Watch 4 is cheaper than ever right now",
+                "description": "The Google Pixel Watch 4 is having its steepest sale yet.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "The Google Pixel Watch 4 is cheaper than ever right now",
+                "description": "The Google Pixel Watch 4 is having its steepest sale yet.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/wearables/the-google-pixel-watch-4-is-cheaper-than-ever-right-now-141715083.html"
+    },
+    {
+        "id": "news-ai-12",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Google Discover is testing AI-generated headlines and they aren't good",
+                "description": "The company's latest test is using generative AI on stories in Google Discover.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Google Discover is testing AI-generated headlines and they aren't good",
+                "description": "The company's latest test is using generative AI on stories in Google Discover.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/google-discover-is-testing-ai-generated-headlines-and-they-arent-good-234700720.html"
+    },
+    {
+        "id": "news-gear-1484",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The best Secret Santa gift ideas for 2025: Affordable gifts to give from Apple, Lego, Yeti and others",
+                "description": "These gift ideas are crowd-pleasers, plus they won't break the bank.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "The best Secret Santa gift ideas for 2025: Affordable gifts to give from Apple, Lego, Yeti and others",
+                "description": "These gift ideas are crowd-pleasers, plus they won't break the bank.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/the-best-secret-santa-gift-ideas-for-2025-affordable-gifts-to-give-from-apple-lego-yeti-and-others-130014197.html"
+    },
+    {
+        "id": "news-gaming-413",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Pixel-art cyberpunk game Replaced arrives in March",
+                "description": "It's a 2.5D action platformer with fluid movement and combat.",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Pixel-art cyberpunk game Replaced arrives in March",
+                "description": "It's a 2.5D action platformer with fluid movement and combat.",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/pixel-art-cyberpunk-game-replaced-arrives-in-march-170253220.html"
+    },
+    {
+        "id": "news-mobile-730",
         "time": "Today",
         "tags": [
             {
@@ -491,86 +401,86 @@
         ],
         "content": {
             "en": {
-                "title": "Watch Pixar's new teaser for Toy Story 5",
-                "description": "In a new teaser trailer for Toy Story 5, Buzz, Woody and the rest of the gang face what may be their ultimate enemy in the war for a child's play time: electronics.",
+                "title": "Remix in Google Messages brings AI photo editing to even more phones",
+                "description": "Google's November Pixel Drop adds photo editing to Google Messages and notification summaries for busy group chats.",
                 "hashtags": [
                     "#news",
                     "#mobile"
                 ]
             },
             "tr": {
-                "title": "Watch Pixar's new teaser for Toy Story 5",
-                "description": "In a new teaser trailer for Toy Story 5, Buzz, Woody and the rest of the gang face what may be their ultimate enemy in the war for a child's play time: electronics.",
+                "title": "Remix in Google Messages brings AI photo editing to even more phones",
+                "description": "Google's November Pixel Drop adds photo editing to Google Messages and notification summaries for busy group chats.",
                 "hashtags": [
                     "#haber",
                     "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/entertainment/watch-pixars-new-teaser-for-toy-story-5-130011156.html"
+        "url": "https://www.engadget.com/mobile/smartphones/remix-in-google-messages-brings-ai-photo-editing-to-even-more-phones-190000445.html"
     },
     {
-        "id": "news-gaming-409",
+        "id": "news-mobile-730",
         "time": "Today",
         "tags": [
             {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
             }
         ],
         "content": {
             "en": {
-                "title": "The best laptops for gaming and schoolwork in 2025",
-                "description": "These are our top picks for true work-and-play machines.",
+                "title": "DJI's Osmo Mobile 8 gimbal adds pet tracking and Apple DockKit support",
+                "description": "DJI's Osmo Mobile 8 gimbal looks much like the last model but adds new functionality including Apple DockKit support, 360-degree panning and pet tracking.",
                 "hashtags": [
                     "#news",
-                    "#gaming"
+                    "#mobile"
                 ]
             },
             "tr": {
-                "title": "The best laptops for gaming and schoolwork in 2025",
-                "description": "These are our top picks for true work-and-play machines.",
+                "title": "DJI's Osmo Mobile 8 gimbal adds pet tracking and Apple DockKit support",
+                "description": "DJI's Osmo Mobile 8 gimbal looks much like the last model but adds new functionality including Apple DockKit support, 360-degree panning and pet tracking.",
                 "hashtags": [
                     "#haber",
-                    "#gaming"
+                    "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/computing/laptops/best-laptops-for-gaming-and-school-132207352.html"
+        "url": "https://www.engadget.com/cameras/djis-osmo-mobile-8-gimbal-adds-pet-tracking-and-apple-dockkit-support-120032512.html"
     },
     {
-        "id": "news-ai-8",
+        "id": "news-space-1126",
         "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
             }
         ],
         "content": {
             "en": {
-                "title": "Crucial is a casualty of AI's hunger for RAM",
-                "description": "Micron Technology is winding down its consumer Crucial RAM and SSD brand to focus on providing parts for the AI industry.",
+                "title": "Why on Earth would NASA build a nuclear reactor on the Moon?",
+                "description": "Building a nuclear reactor on the Moon is the not the ridiculous idea it might seem.",
                 "hashtags": [
                     "#news",
-                    "#ai"
+                    "#space"
                 ]
             },
             "tr": {
-                "title": "Crucial is a casualty of AI's hunger for RAM",
-                "description": "Micron Technology is winding down its consumer Crucial RAM and SSD brand to focus on providing parts for the AI industry.",
+                "title": "Why on Earth would NASA build a nuclear reactor on the Moon?",
+                "description": "Building a nuclear reactor on the Moon is the not the ridiculous idea it might seem.",
                 "hashtags": [
                     "#haber",
-                    "#ai"
+                    "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/computing/crucial-is-a-casualty-of-ais-hunger-for-ram-185910113.html"
+        "url": "https://www.engadget.com/science/space/why-on-earth-would-nasa-build-a-nuclear-reactor-on-the-moon-153741891.html"
     },
     {
-        "id": "news-gear-1480",
+        "id": "news-gear-1484",
         "time": "Today",
         "tags": [
             {
@@ -581,22 +491,112 @@
         ],
         "content": {
             "en": {
-                "title": "TikTok announces shared feed and collections features",
-                "description": "TikTok just announced new social elements for the app. There's now a shared feed and a collections feature.",
+                "title": "The 5 best Mint alternatives to replace the budgeting app that shut down",
+                "description": "Intuit has shut down the popular budgeting app Mint. Engadget tested a bunch of popular alternatives. Here are our favorites.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "TikTok announces shared feed and collections features",
-                "description": "TikTok just announced new social elements for the app. There's now a shared feed and a collections feature.",
+                "title": "The 5 best Mint alternatives to replace the budgeting app that shut down",
+                "description": "Intuit has shut down the popular budgeting app Mint. Engadget tested a bunch of popular alternatives. Here are our favorites.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/apps/tiktok-announces-shared-feed-and-collections-features-193857725.html"
+        "url": "https://www.engadget.com/apps/the-best-budgeting-apps-to-replace-mint-143047346.html"
+    },
+    {
+        "id": "news-ai-12",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Amazon halts AI anime dub 'beta' after widespread ridicule",
+                "description": "The AI-generated English dub for Banana Fish was the source of much of the ire.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Amazon halts AI anime dub 'beta' after widespread ridicule",
+                "description": "The AI-generated English dub for Banana Fish was the source of much of the ire.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/entertainment/amazon-halts-ai-anime-dub-beta-after-widespread-ridicule-141501051.html"
+    },
+    {
+        "id": "news-mobile-730",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "How to stretch the clock on your lock screen in iOS 26",
+                "description": "iOS 26 lets you stretch the lock-screen clock for a bigger, bolder time display. Here’s how to adjust it in a few quick steps.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "How to stretch the clock on your lock screen in iOS 26",
+                "description": "iOS 26 lets you stretch the lock-screen clock for a bigger, bolder time display. Here’s how to adjust it in a few quick steps.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/how-to-stretch-the-clock-on-your-lock-screen-in-ios-26-130032926.html"
+    },
+    {
+        "id": "news-gear-1484",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Apple Watch Series 11 drops $100 to an all-time low price",
+                "description": "You can pick one up for $299 right now.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "Apple Watch Series 11 drops $100 to an all-time low price",
+                "description": "You can pick one up for $299 right now.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/deals/apple-watch-series-11-drops-100-to-an-all-time-low-price-130006591.html"
     }
 ]
