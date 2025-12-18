@@ -1,246 +1,6 @@
 [
     {
-        "id": "news-ai-16",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "There aren't any Black Friday deals on RAM this year, and you can thank AI for that",
-                "description": "I sat down to write this story hoping to point people to deals on RAM kits for their gaming PC builds, but after an extensive search, I'm sorry to say there aren't any promotions worth even considering.",
-                "hashtags": [
-                    "#news",
-                    "#ai"
-                ]
-            },
-            "tr": {
-                "title": "There aren't any Black Friday deals on RAM this year, and you can thank AI for that",
-                "description": "I sat down to write this story hoping to point people to deals on RAM kits for their gaming PC builds, but after an extensive search, I'm sorry to say there aren't any promotions worth even considering.",
-                "hashtags": [
-                    "#haber",
-                    "#ai"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/ai/there-arent-any-black-friday-deals-on-ram-this-year-and-you-can-thank-ai-for-that-130000335.html"
-    },
-    {
-        "id": "news-space-1130",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Space",
-                "colorClass": "text-yellow-400 border-yellow-400/30",
-                "type": "space"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Someone paid $5.3 million for a piece of Mars",
-                "description": "The 54-lb. meteorite was found in the Sahara in 2023.",
-                "hashtags": [
-                    "#news",
-                    "#space"
-                ]
-            },
-            "tr": {
-                "title": "Someone paid $5.3 million for a piece of Mars",
-                "description": "The 54-lb. meteorite was found in the Sahara in 2023.",
-                "hashtags": [
-                    "#haber",
-                    "#space"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/science/space/someone-paid-53-million-for-a-piece-of-mars-191502853.html"
-    },
-    {
-        "id": "news-mobile-734",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The best cheap Android phones to buy in 2025",
-                "description": "The Android phone space not only offers a variety of models made by different manufacturers, but also smartphones at all different price points. Here are the best budget Android phones you can buy today.",
-                "hashtags": [
-                    "#news",
-                    "#mobile"
-                ]
-            },
-            "tr": {
-                "title": "The best cheap Android phones to buy in 2025",
-                "description": "The Android phone space not only offers a variety of models made by different manufacturers, but also smartphones at all different price points. Here are the best budget Android phones you can buy today.",
-                "hashtags": [
-                    "#haber",
-                    "#mobile"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/mobile/smartphones/best-cheap-android-phone-160029703.html"
-    },
-    {
-        "id": "news-ai-16",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "AI chatbots can be tricked with poetry to ignore their safety guardrails",
-                "description": "Researchers from Italy discovered that phrasing prompts in poetry can be a reliable jailbreaking method for LLMs.",
-                "hashtags": [
-                    "#news",
-                    "#ai"
-                ]
-            },
-            "tr": {
-                "title": "AI chatbots can be tricked with poetry to ignore their safety guardrails",
-                "description": "Researchers from Italy discovered that phrasing prompts in poetry can be a reliable jailbreaking method for LLMs.",
-                "hashtags": [
-                    "#haber",
-                    "#ai"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/ai/ai-chatbots-can-be-tricked-with-poetry-to-ignore-their-safety-guardrails-192925244.html"
-    },
-    {
-        "id": "news-gaming-417",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "The 29 best PC games you can play right now for 2025",
-                "description": "Here is a list of the best PC games you can get right now, as chosen by Engadget editors.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "The 29 best PC games you can play right now for 2025",
-                "description": "Here is a list of the best PC games you can get right now, as chosen by Engadget editors.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/gaming/pc/the-best-pc-games-150000910.html"
-    },
-    {
-        "id": "news-gaming-417",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Netflix is getting rid of another of its game studios by selling it back to its founders",
-                "description": "Spry Fox will revert to being an independent company and will continue developing its upcoming MMO.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "Netflix is getting rid of another of its game studios by selling it back to its founders",
-                "description": "Spry Fox will revert to being an independent company and will continue developing its upcoming MMO.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/gaming/netflix-is-getting-rid-of-another-of-its-game-studios-by-selling-it-back-to-its-founders-203645232.html"
-    },
-    {
-        "id": "news-space-1130",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Space",
-                "colorClass": "text-yellow-400 border-yellow-400/30",
-                "type": "space"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Trump's defunding of NASA would be catastrophic",
-                "description": "\"This is probably the most uncertain future NASA has faced, maybe since the end of Apollo.\"",
-                "hashtags": [
-                    "#news",
-                    "#space"
-                ]
-            },
-            "tr": {
-                "title": "Trump's defunding of NASA would be catastrophic",
-                "description": "\"This is probably the most uncertain future NASA has faced, maybe since the end of Apollo.\"",
-                "hashtags": [
-                    "#haber",
-                    "#space"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/science/space/trumps-defunding-of-nasa-would-be-catastrophic-153053020.html"
-    },
-    {
-        "id": "news-gaming-417",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gaming",
-                "colorClass": "text-purple-400 border-purple-400/30",
-                "type": "gaming"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "PlayStation teams up with Bad Robot and the creator of Left 4 Dead for a co-op shooter",
-                "description": "It's surely time for the Super 8 game we've all been waiting for.",
-                "hashtags": [
-                    "#news",
-                    "#gaming"
-                ]
-            },
-            "tr": {
-                "title": "PlayStation teams up with Bad Robot and the creator of Left 4 Dead for a co-op shooter",
-                "description": "It's surely time for the Super 8 game we've all been waiting for.",
-                "hashtags": [
-                    "#haber",
-                    "#gaming"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/gaming/playstation/playstation-teams-up-with-bad-robot-and-the-creator-of-left-4-dead-for-a-co-op-shooter-144637802.html"
-    },
-    {
-        "id": "news-gear-1488",
+        "id": "news-gear-1492",
         "time": "Today",
         "tags": [
             {
@@ -251,26 +11,26 @@
         ],
         "content": {
             "en": {
-                "title": "X shuts down the European Commission’s ad account the day after major fine",
-                "description": "The European Commission will no longer be able to buy and track ads on X.",
+                "title": "Netflix to buy Warner Bros. for $82.7 billion",
+                "description": "One of the biggest, most transformative deals in media history.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "X shuts down the European Commission’s ad account the day after major fine",
-                "description": "The European Commission will no longer be able to buy and track ads on X.",
+                "title": "Netflix to buy Warner Bros. for $82.7 billion",
+                "description": "One of the biggest, most transformative deals in media history.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/social-media/x-shuts-down-the-european-commissions-ad-account-the-day-after-major-fine-173553267.html"
+        "url": "https://www.engadget.com/entertainment/netflix-to-buy-warner-bros-for-827-billion-120836295.html"
     },
     {
-        "id": "news-mobile-734",
+        "id": "news-mobile-738",
         "time": "Today",
         "tags": [
             {
@@ -281,26 +41,26 @@
         ],
         "content": {
             "en": {
-                "title": "How to use call screening on an iPhone",
-                "description": "Apple’s new Call Screening feature in iOS 26 helps you filter unknown callers before your phone even rings.",
+                "title": "The best ereaders for 2025",
+                "description": "We tested ereaders from Kobo, Amazon, Boox and more to see which one is the best overall, along with a budget pick and the best one with page-turn buttons.",
                 "hashtags": [
                     "#news",
                     "#mobile"
                 ]
             },
             "tr": {
-                "title": "How to use call screening on an iPhone",
-                "description": "Apple’s new Call Screening feature in iOS 26 helps you filter unknown callers before your phone even rings.",
+                "title": "The best ereaders for 2025",
+                "description": "We tested ereaders from Kobo, Amazon, Boox and more to see which one is the best overall, along with a budget pick and the best one with page-turn buttons.",
                 "hashtags": [
                     "#haber",
                     "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/mobile/smartphones/how-to-use-call-screening-on-an-iphone-130041744.html"
+        "url": "https://www.engadget.com/mobile/tablets/best-ereader-130013808.html"
     },
     {
-        "id": "news-space-1130",
+        "id": "news-space-1134",
         "time": "Today",
         "tags": [
             {
@@ -311,26 +71,26 @@
         ],
         "content": {
             "en": {
-                "title": "Starlink outage: Service returns after over two hours down",
-                "description": "SpaceX's Starlink satellite internet service is down due to an outage. The company is currently implementing a fix.",
+                "title": "Webb spots 'Infinity Galaxy' that sheds light on black hole formation",
+                "description": "A young supermassive black hole appears to have formed in a vast gas cloud.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "Starlink outage: Service returns after over two hours down",
-                "description": "SpaceX's Starlink satellite internet service is down due to an outage. The company is currently implementing a fix.",
+                "title": "Webb spots 'Infinity Galaxy' that sheds light on black hole formation",
+                "description": "A young supermassive black hole appears to have formed in a vast gas cloud.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/starlink-outage-service-returns-after-over-two-hours-down-204002942.html"
+        "url": "https://www.engadget.com/science/space/webb-spots-infinity-galaxy-that-sheds-light-on-black-hole-formation-183900161.html"
     },
     {
-        "id": "news-gear-1488",
+        "id": "news-gear-1492",
         "time": "Today",
         "tags": [
             {
@@ -341,26 +101,56 @@
         ],
         "content": {
             "en": {
-                "title": "OpenAI’s head of ChatGPT says posts appearing to show in-app ads are ‘not real or not ads’",
-                "description": "OpenAI claims that certain screenshots of ChatGPT chatlogs aren't displaying live ads, but app integration.",
+                "title": "The best iPad deals this week include $100 off the iPad Air M3",
+                "description": "Here are the best iPad deals we could find, along with a few other noteworthy Apple deals available across the web right now.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "OpenAI’s head of ChatGPT says posts appearing to show in-app ads are ‘not real or not ads’",
-                "description": "OpenAI claims that certain screenshots of ChatGPT chatlogs aren't displaying live ads, but app integration.",
+                "title": "The best iPad deals this week include $100 off the iPad Air M3",
+                "description": "Here are the best iPad deals we could find, along with a few other noteworthy Apple deals available across the web right now.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/ai/openais-head-of-chatgpt-says-posts-appearing-to-show-in-app-ads-are-not-real-or-not-ads-190454584.html"
+        "url": "https://www.engadget.com/deals/the-best-ipad-deals-this-week-include-100-off-the-ipad-air-m3-150020616.html"
     },
     {
-        "id": "news-space-1130",
+        "id": "news-ai-20",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Google limits free Nano Banana Pro image generation usage due to 'high demand'",
+                "description": "If you were hoping to create some silly images with Google's new Nano Banana Pro model this Thanksgiving long weekend, I have some bad news: the company is further restricting free usage of the AI system.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Google limits free Nano Banana Pro image generation usage due to 'high demand'",
+                "description": "If you were hoping to create some silly images with Google's new Nano Banana Pro model this Thanksgiving long weekend, I have some bad news: the company is further restricting free usage of the AI system.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/google-limits-free-nano-banana-pro-image-generation-usage-due-to-high-demand-223442929.html"
+    },
+    {
+        "id": "news-space-1134",
         "time": "Today",
         "tags": [
             {
@@ -371,56 +161,26 @@
         ],
         "content": {
             "en": {
-                "title": "NASA may lose close to 4,000 employees after latest deferred resignation round",
-                "description": "About 3,000 NASA employees applied to leave as part of the deferred resignation program, which closed its second round on July 25.",
+                "title": "The Webb Telescope captures a mesmerizing view of the Cat's Paw nebula",
+                "description": "The ESA shared the image to commemorate the JWST's three years in service.",
                 "hashtags": [
                     "#news",
                     "#space"
                 ]
             },
             "tr": {
-                "title": "NASA may lose close to 4,000 employees after latest deferred resignation round",
-                "description": "About 3,000 NASA employees applied to leave as part of the deferred resignation program, which closed its second round on July 25.",
+                "title": "The Webb Telescope captures a mesmerizing view of the Cat's Paw nebula",
+                "description": "The ESA shared the image to commemorate the JWST's three years in service.",
                 "hashtags": [
                     "#haber",
                     "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/science/space/nasa-may-lose-close-to-4000-employees-after-latest-deferred-resignation-round-204452249.html"
+        "url": "https://www.engadget.com/science/space/the-webb-telescope-captures-a-mesmerizing-view-of-the-cats-paw-nebula-164747111.html"
     },
     {
-        "id": "news-gear-1488",
-        "time": "Today",
-        "tags": [
-            {
-                "text": "Gear",
-                "colorClass": "text-red-400 border-red-400/30",
-                "type": "gear"
-            }
-        ],
-        "content": {
-            "en": {
-                "title": "Waymo's robotaxi fleet is being recalled again, this time for failing to stop for school buses",
-                "description": "Waymo's latest software recall will prevent its autonomous fleet from running school bus stop signs.",
-                "hashtags": [
-                    "#news",
-                    "#gear"
-                ]
-            },
-            "tr": {
-                "title": "Waymo's robotaxi fleet is being recalled again, this time for failing to stop for school buses",
-                "description": "Waymo's latest software recall will prevent its autonomous fleet from running school bus stop signs.",
-                "hashtags": [
-                    "#haber",
-                    "#gear"
-                ]
-            }
-        },
-        "url": "https://www.engadget.com/transportation/waymos-robotaxi-fleet-is-being-recalled-again-this-time-for-failing-to-stop-for-school-buses-190222243.html"
-    },
-    {
-        "id": "news-gaming-417",
+        "id": "news-gaming-421",
         "time": "Today",
         "tags": [
             {
@@ -431,86 +191,86 @@
         ],
         "content": {
             "en": {
-                "title": "Artist Bungie plagiarized for Marathon alpha says the issue has been resolved",
-                "description": "Bungie and Sony have resolved issues with Antireal, an artist whose work was used without permission in Marathon.",
+                "title": "Sony is bringing MLB The Show to iOS and Android",
+                "description": "The free-to-play game is a \"standalone experience built from the ground up\" for mobile devices.",
                 "hashtags": [
                     "#news",
                     "#gaming"
                 ]
             },
             "tr": {
-                "title": "Artist Bungie plagiarized for Marathon alpha says the issue has been resolved",
-                "description": "Bungie and Sony have resolved issues with Antireal, an artist whose work was used without permission in Marathon.",
+                "title": "Sony is bringing MLB The Show to iOS and Android",
+                "description": "The free-to-play game is a \"standalone experience built from the ground up\" for mobile devices.",
                 "hashtags": [
                     "#haber",
                     "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/gaming/artist-bungie-plagiarized-for-marathon-alpha-says-the-issue-has-been-resolved-223901094.html"
+        "url": "https://www.engadget.com/gaming/playstation/sony-is-bringing-mlb-the-show-to-ios-and-android-163300468.html"
     },
     {
-        "id": "news-ai-16",
+        "id": "news-gaming-421",
         "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
             }
         ],
         "content": {
             "en": {
-                "title": "Raspberry Pi raises prices, thanks to AI",
-                "description": "Raspberry Pi is raising prices on many single-board computers. It blames AI memory needs for these increases.",
+                "title": "Epic bans indie game Horses from its storefront 24 hours before release",
+                "description": "Developer Santa Ragione previously said it was at risk of closure after Valve blocked the game from Steam.",
                 "hashtags": [
                     "#news",
-                    "#ai"
+                    "#gaming"
                 ]
             },
             "tr": {
-                "title": "Raspberry Pi raises prices, thanks to AI",
-                "description": "Raspberry Pi is raising prices on many single-board computers. It blames AI memory needs for these increases.",
+                "title": "Epic bans indie game Horses from its storefront 24 hours before release",
+                "description": "Developer Santa Ragione previously said it was at risk of closure after Valve blocked the game from Steam.",
                 "hashtags": [
                     "#haber",
-                    "#ai"
+                    "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/ai/raspberry-pi-raises-prices-thanks-to-ai-190618469.html"
+        "url": "https://www.engadget.com/gaming/epic-bans-indie-game-horses-from-its-storefront-24-hours-before-release-173500417.html"
     },
     {
-        "id": "news-ai-16",
+        "id": "news-space-1134",
         "time": "Today",
         "tags": [
             {
-                "text": "AI",
-                "colorClass": "text-blue-400 border-blue-400/30",
-                "type": "ai"
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
             }
         ],
         "content": {
             "en": {
-                "title": "Apple hires Google veteran as its new vice president of AI",
-                "description": "Apple has tapped AI researcher Amar Subramanya, a longtime Google exec, as its new VP of AI. Current AI exec, John Giannandrea, will retire from Apple in 2026.",
+                "title": "NASA will lose over 2,000 senior staff due to proposed Trump budget cuts",
+                "description": "Over 2,000 senior NASA staff are set to leave their positions ahead of proposed budget cuts.",
                 "hashtags": [
                     "#news",
-                    "#ai"
+                    "#space"
                 ]
             },
             "tr": {
-                "title": "Apple hires Google veteran as its new vice president of AI",
-                "description": "Apple has tapped AI researcher Amar Subramanya, a longtime Google exec, as its new VP of AI. Current AI exec, John Giannandrea, will retire from Apple in 2026.",
+                "title": "NASA will lose over 2,000 senior staff due to proposed Trump budget cuts",
+                "description": "Over 2,000 senior NASA staff are set to leave their positions ahead of proposed budget cuts.",
                 "hashtags": [
                     "#haber",
-                    "#ai"
+                    "#space"
                 ]
             }
         },
-        "url": "https://www.engadget.com/big-tech/apple-hires-google-veteran-as-its-new-vice-president-of-ai-234820021.html"
+        "url": "https://www.engadget.com/science/space/nasa-will-lose-over-2000-senior-staff-due-to-proposed-trump-budget-cuts-210109229.html"
     },
     {
-        "id": "news-mobile-734",
+        "id": "news-mobile-738",
         "time": "Today",
         "tags": [
             {
@@ -521,26 +281,146 @@
         ],
         "content": {
             "en": {
-                "title": "Motorola introduces its latest takes on the Moto G and Moto G Play phones",
-                "description": "Motorola has been consistently offering solid budget smartphone offerings, and the company back with new refreshes to its Moto G and Moto G Play for 2026.",
+                "title": "Ayaneo's first smartphone could have physical shoulder buttons",
+                "description": "Ayaneo is dipping its toes into the smartphone market with the Ayaneo Phone.",
                 "hashtags": [
                     "#news",
                     "#mobile"
                 ]
             },
             "tr": {
-                "title": "Motorola introduces its latest takes on the Moto G and Moto G Play phones",
-                "description": "Motorola has been consistently offering solid budget smartphone offerings, and the company back with new refreshes to its Moto G and Moto G Play for 2026.",
+                "title": "Ayaneo's first smartphone could have physical shoulder buttons",
+                "description": "Ayaneo is dipping its toes into the smartphone market with the Ayaneo Phone.",
                 "hashtags": [
                     "#haber",
                     "#mobile"
                 ]
             }
         },
-        "url": "https://www.engadget.com/mobile/smartphones/motorola-introduces-its-latest-takes-on-the-moto-g-and-moto-g-play-phones-140000620.html"
+        "url": "https://www.engadget.com/mobile/smartphones/ayaneos-first-smartphone-could-have-physical-shoulder-buttons-182033773.html"
     },
     {
-        "id": "news-gear-1488",
+        "id": "news-mobile-738",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "How to make your lock screen background holographic in iOS 26",
+                "description": "Apple’s iOS 26 lets you turn photos into holographic lock screen wallpapers. Here’s how to enable and customize the 3D Spatial Scene effect.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "How to make your lock screen background holographic in iOS 26",
+                "description": "Apple’s iOS 26 lets you turn photos into holographic lock screen wallpapers. Here’s how to enable and customize the 3D Spatial Scene effect.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/how-to-make-your-lock-screen-background-holographic-in-ios-26-110049999.html"
+    },
+    {
+        "id": "news-ai-20",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "FoloToy's AI teddy bear is back on sale following its brief foray into BDSM",
+                "description": "The company ironed out the kinks, and it's back on sale.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "FoloToy's AI teddy bear is back on sale following its brief foray into BDSM",
+                "description": "The company ironed out the kinks, and it's back on sale.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/folotoys-ai-teddy-bear-is-back-on-sale-following-its-brief-foray-into-bdsm-213138383.html"
+    },
+    {
+        "id": "news-mobile-738",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Mobile",
+                "colorClass": "text-green-400 border-green-400/30",
+                "type": "mobile"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The Nothing Phone 3a Lite has a big battery and triple-camera system",
+                "description": "It uses a more minimalistic take on the lineup's distinct design language.",
+                "hashtags": [
+                    "#news",
+                    "#mobile"
+                ]
+            },
+            "tr": {
+                "title": "The Nothing Phone 3a Lite has a big battery and triple-camera system",
+                "description": "It uses a more minimalistic take on the lineup's distinct design language.",
+                "hashtags": [
+                    "#haber",
+                    "#mobile"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/mobile/smartphones/the-nothing-phone-3a-lite-has-a-big-battery-and-triple-camera-system-130016149.html"
+    },
+    {
+        "id": "news-space-1134",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Space",
+                "colorClass": "text-yellow-400 border-yellow-400/30",
+                "type": "space"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "These are the closest-ever images of the sun from Parker Solar Probe's historic flyby",
+                "description": "The Parker Solar Probe made its record-breaking close approach in December.",
+                "hashtags": [
+                    "#news",
+                    "#space"
+                ]
+            },
+            "tr": {
+                "title": "These are the closest-ever images of the sun from Parker Solar Probe's historic flyby",
+                "description": "The Parker Solar Probe made its record-breaking close approach in December.",
+                "hashtags": [
+                    "#haber",
+                    "#space"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/science/space/these-are-the-closest-ever-images-of-the-sun-from-parker-solar-probes-historic-flyby-215549723.html"
+    },
+    {
+        "id": "news-gear-1492",
         "time": "Today",
         "tags": [
             {
@@ -551,52 +431,172 @@
         ],
         "content": {
             "en": {
-                "title": "Apple's Johny Srouji could continue the company's executive exodus, according to report",
-                "description": "The Apple exec largely responsible for the transition to in-house silicon may have one foot out of the door.",
+                "title": "Meta plans to push back the debut of its next mixed reality glasses to 2027",
+                "description": "A memo seen by Business Insider revealed that Meta won't reveal its next mixed reality glasses next year.",
                 "hashtags": [
                     "#news",
                     "#gear"
                 ]
             },
             "tr": {
-                "title": "Apple's Johny Srouji could continue the company's executive exodus, according to report",
-                "description": "The Apple exec largely responsible for the transition to in-house silicon may have one foot out of the door.",
+                "title": "Meta plans to push back the debut of its next mixed reality glasses to 2027",
+                "description": "A memo seen by Business Insider revealed that Meta won't reveal its next mixed reality glasses next year.",
                 "hashtags": [
                     "#haber",
                     "#gear"
                 ]
             }
         },
-        "url": "https://www.engadget.com/big-tech/apples-johny-srouji-could-continue-the-companys-executive-exodus-according-to-report-200750252.html"
+        "url": "https://www.engadget.com/ar-vr/meta-plans-to-push-back-the-debut-of-its-next-mixed-reality-glasses-to-2027-172437374.html"
     },
     {
-        "id": "news-mobile-734",
+        "id": "news-gaming-421",
         "time": "Today",
         "tags": [
             {
-                "text": "Mobile",
-                "colorClass": "text-green-400 border-green-400/30",
-                "type": "mobile"
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
             }
         ],
         "content": {
             "en": {
-                "title": "iOS, iPadOS and macOS now let you frost Apple's Liquid Glass",
-                "description": "Apple's latest OS updates let people opt to give the divisive Liquid Glass look a frostier, more opaque appearance.",
+                "title": "Tencent agrees to stop promoting its Horizon ripoff during Sony lawsuit",
+                "description": "Tencent has agreed to stop promoting and publicly testing Light of Motiram as a lawsuit with Sony continues. The game has been accused of being a clone of the Horizon franchise.",
                 "hashtags": [
                     "#news",
-                    "#mobile"
+                    "#gaming"
                 ]
             },
             "tr": {
-                "title": "iOS, iPadOS and macOS now let you frost Apple's Liquid Glass",
-                "description": "Apple's latest OS updates let people opt to give the divisive Liquid Glass look a frostier, more opaque appearance.",
+                "title": "Tencent agrees to stop promoting its Horizon ripoff during Sony lawsuit",
+                "description": "Tencent has agreed to stop promoting and publicly testing Light of Motiram as a lawsuit with Sony continues. The game has been accused of being a clone of the Horizon franchise.",
                 "hashtags": [
                     "#haber",
-                    "#mobile"
+                    "#gaming"
                 ]
             }
         },
-        "url": "https://www.engadget.com/big-tech/ios-ipados-and-macos-now-let-you-frost-apples-liquid-glass-225513425.html"
+        "url": "https://www.engadget.com/gaming/tencent-agrees-to-stop-promoting-its-horizon-ripoff-during-sony-lawsuit-193043644.html"
+    },
+    {
+        "id": "news-gear-1492",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gear",
+                "colorClass": "text-red-400 border-red-400/30",
+                "type": "gear"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "The Morning After: Flying Antigravity’s A1 drone is unlike anything else",
+                "description": "The biggest news stories this morning: Nikon ZR review, Amazon’s Kindle Scribe Colorsoft finally has a release date, Metroid Prime 4 review.",
+                "hashtags": [
+                    "#news",
+                    "#gear"
+                ]
+            },
+            "tr": {
+                "title": "The Morning After: Flying Antigravity’s A1 drone is unlike anything else",
+                "description": "The biggest news stories this morning: Nikon ZR review, Amazon’s Kindle Scribe Colorsoft finally has a release date, Metroid Prime 4 review.",
+                "hashtags": [
+                    "#haber",
+                    "#gear"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-121538076.html"
+    },
+    {
+        "id": "news-gaming-421",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "Gaming",
+                "colorClass": "text-purple-400 border-purple-400/30",
+                "type": "gaming"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Russia blocks Roblox, citing 'LGBT propaganda' as a reason",
+                "description": "Russia has blocked the popular gaming platform Roblox. The country has accused it of distributing \"LGBT propaganda.\"",
+                "hashtags": [
+                    "#news",
+                    "#gaming"
+                ]
+            },
+            "tr": {
+                "title": "Russia blocks Roblox, citing 'LGBT propaganda' as a reason",
+                "description": "Russia has blocked the popular gaming platform Roblox. The country has accused it of distributing \"LGBT propaganda.\"",
+                "hashtags": [
+                    "#haber",
+                    "#gaming"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/gaming/russia-blocks-roblox-citing-lgbt-propaganda-as-a-reason-180757267.html"
+    },
+    {
+        "id": "news-ai-20",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "US patent office says generative AI is equivalent to other tools in inventors' belts",
+                "description": "The USPTO's latest guidelines reaffirm that \"AI cannot be named as an inventor on a patent application.\"",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "US patent office says generative AI is equivalent to other tools in inventors' belts",
+                "description": "The USPTO's latest guidelines reaffirm that \"AI cannot be named as an inventor on a patent application.\"",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/ai/us-patent-office-says-generative-ai-is-equivalent-to-other-tools-in-inventors-belts-211700837.html"
+    },
+    {
+        "id": "news-ai-20",
+        "time": "Today",
+        "tags": [
+            {
+                "text": "AI",
+                "colorClass": "text-blue-400 border-blue-400/30",
+                "type": "ai"
+            }
+        ],
+        "content": {
+            "en": {
+                "title": "Warner Music drops lawsuit against AI music platform Suno in exchange for licensing agreement",
+                "description": "Warner Music Group and Suno have agreed to a partnership that will let the AI platform license artists' music and likenesses.",
+                "hashtags": [
+                    "#news",
+                    "#ai"
+                ]
+            },
+            "tr": {
+                "title": "Warner Music drops lawsuit against AI music platform Suno in exchange for licensing agreement",
+                "description": "Warner Music Group and Suno have agreed to a partnership that will let the AI platform license artists' music and likenesses.",
+                "hashtags": [
+                    "#haber",
+                    "#ai"
+                ]
+            }
+        },
+        "url": "https://www.engadget.com/entertainment/music/warner-music-drops-lawsuit-against-ai-music-platform-suno-in-exchange-for-licensing-agreement-224619025.html"
     }
 ]
